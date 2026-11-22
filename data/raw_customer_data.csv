@@ -1,0 +1,1221 @@
+Customer_ID,Age,Gender,City,Income_Bracket,Join_Date,Preferred_Category,Membership_Level,Satisfaction_Score,App_Usage_Hours_Month
+CUST-1250,42.0,Female,Los Angeles,High,2022-04-22,Home & Living,Bronze,,7.3
+CUST-1689,18.0,Other,Denver,Medium,2022-05-03,Sports & Outdoors,Silver,5.0,10.0
+CUST-1382,75.0,M,Houston,Medium,2024-09-24,Home & Living,Gold,4.0,6.7
+CUST-1088,49.0,female,Houston,Medium,2022-03-11,Fashion,Platinum,3.0,2.9
+CUST-1268,26.0,Female,New York,Low,2023-03-09,Electronics,Platinum,5.0,18.2
+CUST-2152,25.0,Female,Phoenix,Very High,2022-06-28,Fashion,Silver,2.0,3.2
+CUST-1348,35.0,Male,Los Angeles,Low,2023-01-17,Electronics,Bronze,4.0,4.1
+CUST-1117,22.0,Female,Austin,Very High,2023-12-01,Fashion,Gold,4.0,8.1
+CUST-1003,42.0,Other,Los Angeles,Very High,2023-06-07,Beauty & Health,Bronze,2.0,4.2
+CUST-1955,36.0,Female,Phoenix,Medium,2024-12-20,Fashion,Silver,1.0,5.8
+CUST-1776,44.0,Other,Chicago,Medium,2022-04-12,Beauty & Health,Silver,4.0,9.0
+CUST-1126,57.0,Female,Los Angeles,Medium,2023-04-08,Beauty & Health,Gold,2.0,8.4
+CUST-1766,42.0,other,Los Angeles,Medium,2023-04-17,Electronics,Bronze,5.0,4.7
+CUST-1163,48.0,Other,Los Angeles,Medium,2022-04-04,Home & Living,Bronze,4.0,5.7
+CUST-1759,31.0,male,Seattle,Medium,2022-10-18,Sports & Outdoors,Gold,4.0,2.6
+CUST-1613,18.0,Female,Austin,High,2023-03-09,Sports & Outdoors,Bronze,3.0,4.5
+CUST-2103,35.0,Female,Houston,Low,2023-05-18,Home & Living,Silver,4.0,6.7
+CUST-1460,28.0,Female,Chicago,Medium,2022-11-20,Fashion,Bronze,4.0,21.4
+CUST-1649,25.0,Female,Chicago,Very High,2022-05-26,Sports & Outdoors,Bronze,4.0,17.3
+CUST-1100,51.0,Female,Los Angeles,Medium,2022-07-20,Home & Living,Bronze,5.0,2.1
+CUST-1337,18.0,Other,Phoenix,High,2022-06-24,Sports & Outdoors,Bronze,4.0,6.1
+CUST-1148,26.0,Male,Chicago,Very High,2024-09-07,Beauty & Health,Bronze,4.0,9.9
+CUST-1419,27.0,Other,Chicago,Low,2022-02-09,Fashion,Bronze,3.0,3.1
+CUST-1997,24.0,Male,Phoenix,Very High,2023-06-12,Sports & Outdoors,Gold,3.0,7.9
+CUST-1338,38.0,M,Austin,,2022-10-20,Sports & Outdoors,Silver,3.0,3.3
+CUST-2085,46.0,Female,Austin,Medium,2022-08-29,Home & Living,Gold,3.0,7.8
+CUST-1116,32.0,Female,Los Angeles,Medium,2024-07-29,Home & Living,Gold,2.0,11.1
+CUST-1694,41.0,Other,Phoenix,Very High,2022-06-11,Sports & Outdoors,Bronze,1.0,1.7
+CUST-2163,19.0,female,Houston,Low,2023-04-27,Fashion,Bronze,3.0,16.3
+CUST-2189,34.0,Other,Denver,Medium,2024-09-18,Sports & Outdoors,Bronze,5.0,1.0
+CUST-2094,47.0,F,Los Angeles,Medium,2024-04-18,Home & Living,Platinum,2.0,5.3
+CUST-1027,38.0,Female,Houston,Low,2022-04-12,Electronics,Silver,5.0,22.9
+CUST-1778,42.0,Male,Austin,High,2024-03-07,Beauty & Health,Bronze,5.0,4.8
+CUST-1641,22.0,Other,Chicago,,2023-08-19,Electronics,Bronze,5.0,9.4
+CUST-1292,44.0,Male,Chicago,Medium,2022-08-05,Electronics,Silver,5.0,4.2
+CUST-1629,,Other,Austin,Medium,2023-10-08,Sports & Outdoors,Silver,4.0,2.8
+CUST-1608,39.0,Female,Phoenix,Medium,2022-01-18,Electronics,Bronze,4.0,4.6
+CUST-1380,30.0,Female,Chicago,Medium,2022-01-18,Sports & Outdoors,Gold,4.0,9.9
+CUST-2183,29.0,Male,Houston,Low,2024-10-07,Electronics,Gold,4.0,10.2
+CUST-1003,42.0,Other,Los Angeles,Very High,2023-06-07,Beauty & Health,Bronze,2.0,4.2
+CUST-1529,63.0,Male,Seattle,,2023-02-01,Beauty & Health,Gold,2.0,1.5
+CUST-1863,18.0,Female,Los Angeles,Low,2023-04-19,Electronics,Silver,5.0,9.8
+CUST-1082,70.0,Other,Los Angeles,,2022-10-23,Sports & Outdoors,Bronze,4.0,7.9
+CUST-1946,28.0,Female,Houston,Low,2022-02-20,Home & Living,Bronze,1.0,7.3
+CUST-1186,60.0,Female,New York,Medium,2022-10-10,Electronics,Bronze,4.0,3.8
+CUST-1546,42.0,Other,New York,Medium,2022-10-14,Beauty & Health,Platinum,5.0,7.7
+CUST-1874,27.0,Male,Phoenix,Medium,2022-04-24,Beauty & Health,Silver,4.0,7.9
+CUST-1184,26.0,Female,Phoenix,Medium,2023-11-14,Electronics,Platinum,2.0,6.9
+CUST-1257,44.0,Female,Chicago,Low,2022-10-19,Beauty & Health,Silver,4.0,5.0
+CUST-1614,23.0,Male,Seattle,Medium,2022-07-19,Beauty & Health,Bronze,5.0,4.4
+CUST-2043,35.0,Male,Chicago,Medium,2024-07-25,Beauty & Health,Silver,4.0,3.2
+CUST-1033,22.0,Other,Los Angeles,Medium,2023-06-28,Beauty & Health,Bronze,5.0,1.2
+CUST-1965,18.0,Female,New York,Medium,2023-12-01,Electronics,Silver,4.0,11.9
+CUST-2081,43.0,Male,Chicago,High,2023-07-23,Sports & Outdoors,Silver,4.0,13.8
+CUST-2063,19.0,Other,Seattle,High,2022-06-17,Fashion,Silver,2.0,2.5
+CUST-1115,48.0,Other,Chicago,High,2024-07-02,Electronics,Silver,2.0,6.2
+CUST-1762,29.0,Female,Los Angeles,High,2024-01-11,Home & Living,Gold,5.0,4.2
+CUST-1521,18.0,Female,Denver,Medium,2024-02-24,Fashion,Gold,3.0,10.7
+CUST-1993,41.0,Male,Austin,Medium,2022-11-17,Sports & Outdoors,Silver,2.0,12.9
+CUST-1409,30.0,Female,New York,Medium,2023-09-22,Sports & Outdoors,Bronze,4.0,4.5
+CUST-1173,52.0,Female,Austin,Medium,2024-11-08,Sports & Outdoors,Bronze,1.0,8.0
+CUST-1034,18.0,Male,Los Angeles,Low,2023-04-21,Sports & Outdoors,Silver,4.0,15.8
+CUST-1722,43.0,Female,Houston,Medium,2024-08-12,Home & Living,Gold,5.0,13.5
+CUST-1129,33.0,Female,Seattle,Low,2024-02-13,Fashion,Bronze,3.0,5.7
+CUST-1935,27.0,Other,Phoenix,Very High,2024-10-03,Electronics,Gold,4.0,4.9
+CUST-2195,27.0,Female,Los Angeles,Medium,2023-08-05,Beauty & Health,Bronze,4.0,9.3
+CUST-1725,42.0,Female,Denver,Low,2024-06-29,Fashion,Bronze,3.0,11.4
+CUST-1577,38.0,Male,New York,Medium,2024-06-11,Fashion,Gold,2.0,15.9
+CUST-2174,24.0,male,Chicago,Low,2024-01-04,Home & Living,Silver,4.0,16.3
+CUST-1641,22.0,Other,Chicago,Medium,2023-08-19,Electronics,Bronze,5.0,9.4
+CUST-1110,,Male,Austin,Medium,2023-08-07,Sports & Outdoors,Silver,3.0,8.7
+CUST-1321,45.0,Male,Austin,Low,2024-05-30,Beauty & Health,Gold,4.0,11.1
+CUST-2160,61.0,Male,Phoenix,Low,2024-03-03,Sports & Outdoors,Silver,3.0,8.8
+CUST-1988,31.0,Female,Houston,High,2024-09-29,Beauty & Health,Silver,2.0,13.3
+CUST-1158,35.0,Female,Chicago,Medium,2023-03-27,Home & Living,Platinum,5.0,8.0
+CUST-1790,54.0,Male,Seattle,Low,2022-07-02,Home & Living,Bronze,1.0,6.4
+CUST-1031,,Other,Phoenix,Low,2022-09-06,Electronics,Silver,1.0,9.1
+CUST-1781,29.0,Other,Chicago,High,2022-05-09,Fashion,Silver,4.0,9.2
+CUST-1396,31.0,Female,Seattle,Very High,2023-11-10,Home & Living,Silver,4.0,4.1
+CUST-1361,67.0,Other,Phoenix,High,2022-02-08,Beauty & Health,Bronze,1.0,10.5
+CUST-1190,23.0,Male,Denver,Medium,2023-08-04,Fashion,Bronze,5.0,13.3
+CUST-1219,49.0,Other,Los Angeles,Low,2023-09-16,Fashion,Gold,4.0,5.1
+CUST-1169,45.0,Female,Houston,Low,2022-08-01,Electronics,Silver,3.0,6.9
+CUST-2031,31.0,Male,Denver,Medium,2024-05-08,Beauty & Health,Bronze,5.0,4.1
+CUST-1830,29.0,Female,Phoenix,Low,2022-11-29,Electronics,Silver,3.0,9.2
+CUST-1291,32.0,Female,Austin,Medium,2023-05-24,Beauty & Health,Silver,4.0,3.9
+CUST-1914,42.0,Other,Los Angeles,Medium,2024-01-02,Beauty & Health,Gold,5.0,4.2
+CUST-1701,36.0,Other,New York,Medium,2024-05-19,Beauty & Health,Bronze,,3.0
+CUST-1769,,Male,Denver,Medium,2023-10-24,Beauty & Health,Silver,3.0,4.8
+CUST-2062,61.0,Other,Denver,Medium,2023-06-15,Sports & Outdoors,Platinum,4.0,21.8
+CUST-1879,60.0,O,Chicago,Medium,2022-04-08,Home & Living,Silver,,4.3
+CUST-2058,38.0,Other,New York,Low,2023-08-21,Electronics,Silver,2.0,7.4
+CUST-1430,40.0,Male,Chicago,Very High,2023-01-28,Fashion,Silver,4.0,3.0
+CUST-1001,68.0,Other,Seattle,Low,2024-08-14,Sports & Outdoors,Bronze,4.0,9.7
+CUST-1138,,Female,Denver,Low,2023-10-16,Beauty & Health,Silver,5.0,5.7
+CUST-1660,25.0,Other,Austin,Very High,2024-02-26,Fashion,Gold,4.0,7.9
+CUST-1877,42.0,Male,Los Angeles,Medium,2022-07-07,Electronics,Bronze,3.0,12.3
+CUST-1724,38.0,Female,Phoenix,Very High,2022-08-29,Home & Living,Bronze,4.0,13.3
+CUST-1640,27.0,Male,Denver,High,2022-05-20,Sports & Outdoors,Bronze,3.0,3.8
+CUST-1858,57.0,Male,Phoenix,Medium,2023-10-11,Electronics,Bronze,3.0,4.9
+CUST-1469,29.0,Male,Seattle,High,2022-01-26,Beauty & Health,Bronze,2.0,6.7
+CUST-1982,18.0,Male,New York,,2023-09-05,Sports & Outdoors,Silver,5.0,15.4
+CUST-1447,43.0,Other,Phoenix,Very High,2023-10-03,Electronics,Bronze,2.0,4.9
+CUST-1237,29.0,Other,Seattle,High,2022-12-27,Beauty & Health,Gold,5.0,11.9
+CUST-1366,34.0,Other,Phoenix,High,2022-07-25,Fashion,Bronze,1.0,1.8
+CUST-1910,27.0,Female,Austin,Low,2022-04-12,Beauty & Health,Silver,5.0,16.5
+CUST-2018,40.0,Male,Phoenix,Medium,2023-05-13,Electronics,Bronze,3.0,5.3
+CUST-2187,51.0,Other,Chicago,Medium,2022-08-10,Sports & Outdoors,Silver,3.0,3.2
+CUST-2157,18.0,Male,Seattle,Very High,2023-11-06,Home & Living,Gold,3.0,5.0
+CUST-1758,23.0,Female,Los Angeles,High,2024-09-27,Beauty & Health,Silver,4.0,4.6
+CUST-1142,62.0,Male,Phoenix,Medium,2024-06-16,Home & Living,Bronze,3.0,2.1
+CUST-1995,36.0,Female,New York,Medium,2023-06-13,Fashion,Silver,4.0,9.9
+CUST-1061,31.0,Other,Los Angeles,Medium,2023-01-31,Fashion,Bronze,1.0,19.5
+CUST-1824,24.0,Other,Austin,Very High,2023-08-29,Electronics,Gold,5.0,2.1
+CUST-1225,46.0,Female,Los Angeles,High,2023-05-17,Fashion,Bronze,1.0,5.7
+CUST-1368,20.0,Female,Seattle,High,2024-04-26,Fashion,Silver,5.0,9.1
+CUST-2136,53.0,Other,Austin,Low,2024-03-13,Electronics,Silver,5.0,4.7
+CUST-1037,45.0,O,Chicago,Low,2024-09-12,Sports & Outdoors,Platinum,5.0,1.6
+CUST-1535,44.0,male,Los Angeles,High,2023-10-15,Beauty & Health,Bronze,5.0,2.3
+CUST-2049,30.0,Female,Seattle,Very High,2024-05-13,Fashion,Silver,4.0,7.0
+CUST-1308,48.0,Female,Denver,High,2022-01-21,Beauty & Health,Silver,5.0,12.7
+CUST-1253,52.0,Female,Denver,Low,2022-03-04,Electronics,Gold,4.0,5.9
+CUST-1496,40.0,M,Denver,High,2023-06-16,Sports & Outdoors,Bronze,4.0,9.0
+CUST-1681,39.0,Male,New York,Low,2023-11-16,Beauty & Health,Bronze,4.0,10.6
+CUST-1133,23.0,Male,Austin,Very High,2024-08-31,Sports & Outdoors,Bronze,3.0,16.2
+CUST-1195,41.0,Female,Austin,Low,2022-04-11,Home & Living,Gold,4.0,6.2
+CUST-1788,39.0,Female,Seattle,Medium,2022-11-29,Fashion,Bronze,3.0,4.5
+CUST-1953,48.0,Male,Chicago,High,2022-07-23,Electronics,Silver,2.0,3.5
+CUST-1891,40.0,Male,Denver,Medium,2022-04-28,Sports & Outdoors,Gold,4.0,5.2
+CUST-1408,27.0,Male,Los Angeles,Medium,2024-11-01,Beauty & Health,Bronze,4.0,19.7
+CUST-1594,28.0,Female,Phoenix,High,2023-03-31,Home & Living,Bronze,1.0,6.6
+CUST-1285,33.0,Other,Austin,Medium,2022-12-23,Beauty & Health,Silver,2.0,3.7
+CUST-1615,18.0,Other,Phoenix,High,2022-01-27,Electronics,Silver,5.0,1.3
+CUST-1411,40.0,Female,Austin,Medium,2022-03-29,Beauty & Health,Platinum,2.0,6.5
+CUST-1183,34.0,Male,Austin,High,2023-01-22,Electronics,Silver,4.0,8.7
+CUST-2197,50.0,Other,Houston,Low,2022-12-02,Home & Living,Silver,1.0,8.8
+CUST-1324,49.0,Other,Chicago,High,2024-02-14,Beauty & Health,Silver,4.0,2.4
+CUST-2047,42.0,female,Denver,Very High,2024-08-30,Beauty & Health,Bronze,3.0,4.5
+CUST-1544,46.0,Female,Phoenix,High,2024-07-25,Home & Living,Platinum,4.0,12.4
+CUST-1029,39.0,Female,Denver,Very High,2022-04-30,Electronics,Bronze,3.0,10.0
+CUST-1248,27.0,Male,Austin,Low,2022-02-01,Fashion,Silver,5.0,4.8
+CUST-1810,18.0,Other,Chicago,Medium,2022-06-10,Home & Living,Bronze,4.0,7.5
+CUST-1258,33.0,Female,Houston,Low,2023-07-14,Fashion,Gold,4.0,10.8
+CUST-1777,27.0,Other,Los Angeles,Medium,2022-08-03,Beauty & Health,Bronze,4.0,11.6
+CUST-1570,43.0,Other,Austin,High,2023-11-12,Sports & Outdoors,Gold,3.0,3.0
+CUST-1286,24.0,F,Chicago,Medium,2022-06-12,Home & Living,Silver,4.0,1.4
+CUST-2040,40.0,Other,Austin,High,2022-05-09,Beauty & Health,Bronze,5.0,4.2
+CUST-1231,34.0,Female,Houston,Low,2022-07-16,Home & Living,Silver,4.0,13.6
+CUST-1568,42.0,Male,Seattle,Medium,2024-02-02,Beauty & Health,Silver,4.0,7.8
+CUST-1025,43.0,Other,Houston,Very High,2022-09-19,Home & Living,Platinum,2.0,1.6
+CUST-1715,52.0,Male,Seattle,Low,2024-04-24,Electronics,Gold,2.0,11.1
+CUST-1502,30.0,male,Phoenix,High,2024-04-03,Electronics,Silver,4.0,4.2
+CUST-1376,55.0,Female,Denver,Medium,2024-07-25,Beauty & Health,Gold,4.0,0.5
+CUST-1128,40.0,Female,Seattle,Medium,2022-12-27,Sports & Outdoors,Bronze,5.0,4.6
+CUST-1296,34.0,Other,New York,Medium,2022-02-09,Home & Living,Silver,4.0,13.6
+CUST-1073,26.0,Male,New York,Medium,2023-12-27,Beauty & Health,Platinum,4.0,4.6
+CUST-2159,66.0,Male,Chicago,Very High,2023-02-10,Fashion,Gold,5.0,7.6
+CUST-1288,35.0,Other,Los Angeles,Medium,2024-05-22,Electronics,Platinum,4.0,9.8
+CUST-1301,33.0,female,Los Angeles,High,2023-01-09,Sports & Outdoors,Bronze,,6.1
+CUST-1728,41.0,O,Phoenix,Low,2023-12-14,Sports & Outdoors,Bronze,5.0,4.9
+CUST-1304,41.0,Female,Chicago,Low,2022-12-24,Fashion,Gold,4.0,3.6
+CUST-1255,62.0,Male,Houston,Medium,2024-06-18,Fashion,Bronze,4.0,5.2
+CUST-1768,36.0,Male,New York,Medium,2022-11-16,Beauty & Health,Gold,4.0,10.5
+CUST-1564,46.0,Female,Phoenix,Low,2024-02-19,Fashion,Bronze,3.0,2.4
+CUST-2070,31.0,Other,Los Angeles,Low,2024-05-31,Sports & Outdoors,Bronze,4.0,7.6
+CUST-2108,18.0,Female,Austin,Medium,2024-12-03,Electronics,Silver,4.0,10.2
+CUST-2099,21.0,Other,Houston,High,2023-03-16,Fashion,Bronze,3.0,9.5
+CUST-1101,40.0,other,Denver,Medium,2022-11-20,Fashion,Gold,3.0,12.9
+CUST-1519,48.0,Male,Chicago,Medium,2023-12-25,Home & Living,Silver,4.0,7.3
+CUST-1453,39.0,Male,Los Angeles,Medium,2024-01-15,Beauty & Health,Gold,5.0,5.3
+CUST-1013,22.0,Other,Los Angeles,High,2024-08-01,Beauty & Health,Silver,4.0,9.6
+CUST-1518,49.0,Other,Seattle,Low,2024-03-05,Fashion,Bronze,5.0,2.4
+CUST-1987,33.0,M,Los Angeles,Low,2022-08-03,Beauty & Health,Bronze,4.0,8.9
+CUST-2078,23.0,Female,Denver,,2023-11-13,Beauty & Health,Bronze,4.0,3.6
+CUST-2097,38.0,Other,Denver,Medium,2024-02-16,Beauty & Health,Bronze,4.0,3.0
+CUST-1574,18.0,Other,Phoenix,Low,2023-05-28,Home & Living,Gold,3.0,9.7
+CUST-1180,26.0,Male,Phoenix,Medium,2022-11-01,Home & Living,Bronze,3.0,7.4
+CUST-1996,27.0,Male,Phoenix,Very High,2022-05-25,Electronics,Bronze,3.0,7.2
+CUST-1862,,Other,Houston,Medium,2024-08-17,Fashion,Bronze,5.0,5.6
+CUST-1599,45.0,Other,Los Angeles,Low,2023-10-05,Beauty & Health,Bronze,4.0,7.2
+CUST-1756,44.0,Female,Houston,Medium,2022-06-30,Home & Living,Gold,5.0,4.1
+CUST-1844,42.0,Male,New York,Very High,2022-11-24,Electronics,Bronze,4.0,10.0
+CUST-1808,31.0,Other,Los Angeles,Medium,2023-06-20,Home & Living,Silver,4.0,3.7
+CUST-1693,42.0,Female,Phoenix,High,2023-09-30,Fashion,Bronze,2.0,4.6
+CUST-1461,41.0,Other,Phoenix,High,2022-10-10,Home & Living,Bronze,3.0,5.0
+CUST-1019,43.0,Male,New York,High,2022-01-29,Fashion,Bronze,3.0,4.4
+CUST-1938,42.0,other,Chicago,High,2023-09-15,Home & Living,Bronze,5.0,13.1
+CUST-1696,47.0,Female,Los Angeles,Very High,2023-05-22,Electronics,Gold,4.0,5.8
+CUST-1783,33.0,Male,Austin,High,2024-05-18,Fashion,Bronze,3.0,3.7
+CUST-2115,43.0,Other,Austin,Low,2023-12-30,Electronics,Bronze,4.0,10.4
+CUST-1623,31.0,Female,Denver,High,2023-06-16,Electronics,Gold,3.0,12.2
+CUST-1374,30.0,M,Seattle,Very High,2023-06-24,Home & Living,Bronze,4.0,8.7
+CUST-1729,37.0,Male,Phoenix,High,2022-12-11,Electronics,Silver,2.0,2.5
+CUST-1326,34.0,Male,Phoenix,Medium,2024-12-21,Home & Living,Bronze,4.0,3.0
+CUST-1480,34.0,Other,Austin,Low,2024-07-12,Beauty & Health,Bronze,5.0,12.4
+CUST-1400,24.0,Other,Phoenix,Low,2022-12-29,Beauty & Health,Gold,3.0,5.0
+CUST-2082,46.0,Male,Denver,Low,2024-06-13,Beauty & Health,Bronze,3.0,12.2
+CUST-1421,37.0,Male,Chicago,Medium,2024-04-17,Home & Living,Gold,5.0,1.5
+CUST-2102,38.0,Other,Houston,Medium,2023-09-30,Fashion,Bronze,3.0,10.2
+CUST-1340,31.0,Female,Phoenix,Low,2022-02-23,Sports & Outdoors,Bronze,3.0,8.6
+CUST-1210,45.0,Male,Los Angeles,,2024-03-07,Electronics,Bronze,3.0,4.4
+CUST-2110,18.0,Female,New York,Medium,2022-10-16,Fashion,Bronze,4.0,5.9
+CUST-2144,64.0,Female,Denver,Medium,2022-05-28,Electronics,Silver,2.0,8.9
+CUST-1632,40.0,Male,New York,High,2022-06-12,Beauty & Health,Gold,,6.7
+CUST-1494,35.0,Other,Phoenix,Medium,2023-11-06,Home & Living,Bronze,5.0,10.8
+CUST-1270,30.0,Male,New York,Medium,2024-06-26,Electronics,Bronze,4.0,3.2
+CUST-1007,45.0,Female,Austin,Low,2024-05-06,Electronics,Bronze,4.0,6.8
+CUST-1433,36.0,Male,New York,Very High,2023-10-22,Sports & Outdoors,Bronze,4.0,4.4
+CUST-1964,36.0,Male,Los Angeles,Low,2022-01-18,Beauty & Health,Silver,2.0,1.8
+CUST-1355,35.0,Male,Chicago,Medium,2022-12-27,Sports & Outdoors,Bronze,4.0,2.3
+CUST-1091,67.0,Other,Phoenix,Medium,2024-08-19,Home & Living,Silver,3.0,2.8
+CUST-1803,44.0,Male,Los Angeles,Medium,2022-06-09,Fashion,Gold,4.0,23.3
+CUST-1827,34.0,Other,Houston,Medium,2023-04-16,Sports & Outdoors,Bronze,5.0,8.0
+CUST-1960,20.0,Female,New York,Medium,2023-04-18,Sports & Outdoors,Bronze,2.0,6.5
+CUST-1913,45.0,Male,Denver,Medium,2024-09-17,Fashion,Silver,4.0,7.9
+CUST-2001,45.0,Other,Denver,Medium,2022-05-01,Beauty & Health,Gold,4.0,6.0
+CUST-1545,49.0,Male,Houston,High,2024-12-01,Beauty & Health,Silver,2.0,2.9
+CUST-1865,32.0,Female,Austin,Medium,2023-06-18,Sports & Outdoors,Gold,5.0,5.1
+CUST-2188,33.0,Male,Houston,Low,2024-03-27,Electronics,Gold,4.0,5.9
+CUST-1196,40.0,Male,Denver,Low,2023-04-28,Fashion,Silver,4.0,10.0
+CUST-1483,36.0,Other,New York,Low,2023-05-29,Beauty & Health,Silver,5.0,11.8
+CUST-1150,48.0,Female,Houston,Medium,2024-12-25,Home & Living,Bronze,3.0,10.5
+CUST-2055,39.0,Male,New York,Medium,2022-11-20,Beauty & Health,Silver,5.0,7.9
+CUST-1831,44.0,O,Houston,Low,2022-12-18,Home & Living,Gold,2.0,10.7
+CUST-2004,44.0,Female,Houston,High,2024-03-04,Beauty & Health,Silver,3.0,21.4
+CUST-1569,48.0,Male,Chicago,Medium,2024-03-09,Sports & Outdoors,Gold,2.0,9.8
+CUST-1498,48.0,Male,Los Angeles,Medium,2023-01-27,Electronics,Bronze,5.0,9.5
+CUST-1966,35.0,Male,Seattle,High,2022-07-22,Sports & Outdoors,Silver,4.0,16.2
+CUST-1476,58.0,female,New York,Very High,2023-09-18,Electronics,Bronze,2.0,14.6
+CUST-1767,49.0,Other,Chicago,High,2023-07-13,Fashion,Bronze,4.0,6.2
+CUST-1549,59.0,Other,Austin,Very High,2023-11-09,Sports & Outdoors,Platinum,5.0,7.5
+CUST-1631,18.0,Female,Phoenix,High,2024-11-21,Fashion,Silver,3.0,1.4
+CUST-1730,,Male,Houston,High,2022-01-18,Sports & Outdoors,Silver,2.0,3.2
+CUST-1510,29.0,Male,Chicago,Very High,2022-11-23,Electronics,Silver,4.0,5.2
+CUST-1653,32.0,Female,Seattle,High,2022-07-29,Fashion,Gold,4.0,0.6
+CUST-2164,24.0,Male,Austin,Medium,2024-03-15,Electronics,Silver,5.0,7.5
+CUST-1468,35.0,Other,Denver,Very High,2023-12-15,Beauty & Health,Silver,5.0,5.9
+CUST-1637,41.0,Other,Chicago,High,2022-05-14,Beauty & Health,Gold,4.0,6.8
+CUST-1243,19.0,Male,Denver,,2024-07-24,Sports & Outdoors,Silver,2.0,8.1
+CUST-1086,52.0,Female,Chicago,High,2022-06-02,Home & Living,Bronze,4.0,7.6
+CUST-1057,38.0,Female,Los Angeles,Medium,2023-04-24,Fashion,Bronze,5.0,9.6
+CUST-2028,54.0,Female,Austin,High,2024-10-02,Beauty & Health,Silver,4.0,5.2
+CUST-1619,33.0,Male,Chicago,Low,2024-11-03,Beauty & Health,Silver,3.0,9.9
+CUST-1032,19.0,Other,Seattle,Medium,2024-12-01,Beauty & Health,Bronze,5.0,5.6
+CUST-1140,36.0,Other,Houston,Medium,2024-09-11,Electronics,Bronze,4.0,4.3
+CUST-1211,20.0,Male,Chicago,High,2024-05-09,Sports & Outdoors,Gold,4.0,3.2
+CUST-1305,58.0,Other,Seattle,Medium,2023-09-20,Electronics,Platinum,3.0,9.4
+CUST-1487,22.0,Male,Denver,High,2023-06-02,Electronics,Bronze,4.0,3.1
+CUST-1038,43.0,Male,Los Angeles,Medium,2023-07-18,Beauty & Health,Silver,5.0,7.8
+CUST-2184,18.0,Female,Austin,High,2023-10-24,Fashion,Gold,4.0,7.7
+CUST-1035,49.0,Other,Houston,Low,2024-07-08,Sports & Outdoors,Silver,5.0,11.3
+CUST-1976,28.0,Other,New York,Medium,2024-09-28,Sports & Outdoors,Platinum,4.0,9.2
+CUST-1643,43.0,Other,Phoenix,High,2022-11-09,Beauty & Health,Silver,4.0,3.1
+CUST-1122,31.0,Other,Denver,High,2022-01-19,Fashion,Silver,2.0,3.9
+CUST-1353,27.0,female,Houston,High,2024-01-08,Beauty & Health,Bronze,4.0,7.0
+CUST-1261,46.0,Male,Denver,Medium,2024-09-15,Sports & Outdoors,Gold,4.0,4.7
+CUST-1320,35.0,Female,Houston,Medium,2023-12-13,Fashion,Silver,4.0,4.2
+CUST-1796,51.0,Female,Phoenix,Medium,2023-10-06,Sports & Outdoors,Bronze,5.0,18.7
+CUST-1565,18.0,Female,Chicago,Low,2023-07-07,Sports & Outdoors,Gold,3.0,6.8
+CUST-1008,30.0,Male,Seattle,High,2022-02-14,Electronics,Bronze,4.0,3.7
+CUST-2050,41.0,Male,Los Angeles,Medium,2023-08-22,Home & Living,Bronze,,3.7
+CUST-2122,37.0,Female,New York,Medium,2023-06-12,Sports & Outdoors,Bronze,5.0,2.6
+CUST-1051,45.0,Female,Phoenix,Medium,2024-03-24,Fashion,Bronze,2.0,7.9
+CUST-1123,35.0,Other,Austin,High,2023-08-08,Sports & Outdoors,Bronze,1.0,13.0
+CUST-1571,43.0,Other,New York,Very High,2023-08-07,Electronics,Bronze,4.0,7.0
+CUST-1141,18.0,Male,Houston,Low,2022-04-29,Electronics,Bronze,3.0,12.2
+CUST-1075,35.0,Male,Houston,Very High,2024-12-18,Sports & Outdoors,Bronze,4.0,2.0
+CUST-1238,24.0,Female,Los Angeles,High,2024-07-06,Sports & Outdoors,Silver,4.0,0.8
+CUST-2005,33.0,Other,Chicago,Low,2024-12-20,Beauty & Health,Silver,5.0,5.5
+CUST-2034,60.0,M,Seattle,High,2023-04-04,Home & Living,Platinum,4.0,5.0
+CUST-1780,21.0,Other,Seattle,Medium,2023-03-08,Fashion,Bronze,4.0,6.2
+CUST-1056,24.0,Female,New York,High,2024-07-18,Electronics,Bronze,5.0,17.4
+CUST-2007,60.0,Male,Houston,Medium,2023-08-12,Sports & Outdoors,Silver,2.0,5.7
+CUST-2096,27.0,Male,Seattle,Medium,2022-11-19,Fashion,Silver,4.0,3.4
+CUST-1334,50.0,Other,Los Angeles,Very High,2023-03-11,Fashion,Bronze,1.0,12.0
+CUST-1888,50.0,Male,New York,High,2022-03-07,Sports & Outdoors,Bronze,4.0,11.4
+CUST-1662,35.0,Other,Denver,Medium,2022-03-15,Sports & Outdoors,Silver,4.0,5.8
+CUST-1835,48.0,Female,Austin,Low,2024-05-11,Sports & Outdoors,Silver,4.0,2.1
+CUST-1690,34.0,Other,Austin,Medium,2023-09-21,Beauty & Health,Gold,4.0,5.7
+CUST-2025,41.0,Male,Houston,High,2024-05-12,Home & Living,Silver,4.0,21.4
+CUST-1654,44.0,female,Chicago,Medium,2024-05-23,Beauty & Health,Bronze,5.0,3.3
+CUST-1986,52.0,Male,Phoenix,Medium,2022-09-26,Home & Living,Gold,5.0,7.5
+CUST-1062,18.0,Male,Los Angeles,Medium,2022-10-29,Beauty & Health,Silver,1.0,12.4
+CUST-1731,29.0,Female,New York,Medium,2023-01-13,Beauty & Health,Bronze,,15.0
+CUST-1136,44.0,Female,Denver,Low,2022-04-30,Sports & Outdoors,Bronze,3.0,4.6
+CUST-1821,18.0,Male,Los Angeles,Medium,2023-06-24,Fashion,Silver,3.0,3.4
+CUST-1104,53.0,Other,New York,Medium,2022-09-23,Sports & Outdoors,Bronze,3.0,5.1
+CUST-1992,18.0,Female,Chicago,Very High,2023-03-24,Electronics,Gold,2.0,2.7
+CUST-2076,36.0,Male,Seattle,Medium,2023-06-06,Beauty & Health,Platinum,3.0,2.0
+CUST-1703,18.0,Male,Los Angeles,Medium,2024-11-15,Beauty & Health,Gold,3.0,2.7
+CUST-1801,42.0,Other,Chicago,Medium,2022-08-30,Home & Living,Bronze,4.0,15.6
+CUST-1176,42.0,Female,Houston,High,2024-02-18,Home & Living,Silver,4.0,1.9
+CUST-1314,52.0,Male,Denver,Medium,2024-11-28,Beauty & Health,Bronze,4.0,3.9
+CUST-1489,36.0,Other,New York,Low,2024-08-28,Home & Living,Bronze,3.0,3.5
+CUST-1975,33.0,Other,Houston,High,2023-10-29,Sports & Outdoors,Bronze,3.0,6.3
+CUST-1275,34.0,Female,Austin,Very High,2023-12-29,Beauty & Health,Bronze,5.0,9.2
+CUST-1740,30.0,Female,Phoenix,High,2024-01-22,Sports & Outdoors,Bronze,4.0,4.8
+CUST-1490,,Other,Houston,High,2022-06-11,Home & Living,Platinum,5.0,6.5
+CUST-1069,,Other,Chicago,High,2022-01-23,Fashion,Gold,4.0,9.1
+CUST-2002,38.0,Female,Los Angeles,Very High,2024-05-21,Fashion,Bronze,4.0,12.0
+CUST-1889,43.0,Female,Seattle,High,2024-10-16,Electronics,Platinum,5.0,11.3
+CUST-1795,46.0,O,Chicago,Very High,2022-08-05,Fashion,Silver,4.0,10.6
+CUST-1112,57.0,Female,Denver,Medium,2023-11-06,Electronics,Bronze,3.0,4.6
+CUST-1247,24.0,Male,New York,Low,2023-06-24,Sports & Outdoors,Bronze,4.0,4.8
+CUST-2024,35.0,Female,New York,High,2024-01-13,Fashion,Bronze,5.0,3.4
+CUST-1202,21.0,Other,Austin,Medium,2023-11-28,Sports & Outdoors,Silver,4.0,3.5
+CUST-1356,41.0,Female,New York,,2024-07-03,Home & Living,Silver,4.0,12.6
+CUST-1735,30.0,Female,Houston,Medium,2024-01-28,Sports & Outdoors,Platinum,3.0,9.7
+CUST-1925,37.0,Male,Phoenix,High,2022-08-27,Electronics,Silver,1.0,1.5
+CUST-2142,48.0,Female,New York,High,2022-01-21,Sports & Outdoors,Gold,4.0,4.2
+CUST-1455,33.0,Other,Austin,Low,2022-10-11,Fashion,Bronze,1.0,11.7
+CUST-1514,48.0,Female,Seattle,Low,2022-03-16,Fashion,Gold,4.0,14.9
+CUST-1553,62.0,Male,Houston,Medium,2023-09-09,Beauty & Health,Bronze,2.0,6.7
+CUST-1066,42.0,Male,Austin,Medium,2023-05-19,Fashion,Silver,5.0,10.1
+CUST-1043,51.0,Male,Houston,High,2023-07-15,Beauty & Health,Gold,4.0,4.7
+CUST-1471,46.0,Male,Los Angeles,High,2022-04-08,Beauty & Health,Bronze,2.0,5.5
+CUST-1017,47.0,Male,Phoenix,High,2022-11-12,Electronics,Bronze,4.0,13.3
+CUST-1806,29.0,Female,Denver,High,2023-02-15,Electronics,Silver,3.0,3.8
+CUST-1930,35.0,Female,New York,Medium,2023-07-28,Home & Living,Gold,5.0,7.6
+CUST-2064,39.0,Male,Houston,High,2022-02-15,Beauty & Health,Silver,4.0,3.6
+CUST-1602,37.0,Male,Austin,Medium,2022-05-19,Electronics,Silver,1.0,5.1
+CUST-1611,26.0,Female,Denver,Medium,2023-01-20,Fashion,Gold,3.0,14.3
+CUST-1962,47.0,Other,Phoenix,Medium,2022-10-17,Home & Living,Silver,5.0,8.5
+CUST-1127,39.0,Female,Chicago,Medium,2023-02-05,Beauty & Health,Bronze,5.0,2.9
+CUST-2166,42.0,Female,New York,High,2024-11-01,Fashion,Bronze,2.0,8.8
+CUST-1679,27.0,Other,New York,Very High,2024-05-02,Home & Living,Silver,3.0,20.3
+CUST-2133,36.0,Male,Austin,Low,2022-06-10,Beauty & Health,Gold,4.0,7.4
+CUST-1385,28.0,Other,Seattle,High,2022-06-19,Sports & Outdoors,Silver,3.0,4.0
+CUST-1213,28.0,Male,Denver,Medium,2023-07-04,Fashion,Gold,3.0,8.5
+CUST-1100,51.0,Female,Los Angeles,Medium,2022-07-20,Home & Living,Bronze,5.0,2.1
+CUST-1959,42.0,male,Phoenix,Very High,2023-12-21,Home & Living,Gold,4.0,5.0
+CUST-1049,29.0,Male,Chicago,Medium,2024-09-28,Beauty & Health,Bronze,4.0,11.6
+CUST-2123,18.0,Other,Phoenix,Low,2023-09-07,Electronics,Bronze,4.0,2.2
+CUST-1586,51.0,Other,Los Angeles,Medium,2023-01-14,Home & Living,Bronze,4.0,7.7
+CUST-2182,41.0,Other,New York,Low,2022-09-19,Fashion,Silver,5.0,2.0
+CUST-1152,32.0,Male,Seattle,Medium,2024-04-04,Beauty & Health,Gold,3.0,3.8
+CUST-1597,49.0,Male,Denver,High,2024-01-02,Home & Living,Bronze,4.0,12.9
+CUST-1328,48.0,Male,Chicago,,2023-10-25,Electronics,Silver,4.0,7.3
+CUST-1242,70.0,Female,Denver,Medium,2023-07-26,Beauty & Health,Gold,4.0,1.0
+CUST-1332,28.0,female,Phoenix,Very High,2023-07-05,Sports & Outdoors,Silver,5.0,10.5
+CUST-1846,34.0,Female,Seattle,High,2024-01-24,Fashion,Bronze,2.0,1.7
+CUST-1800,64.0,Other,Houston,High,2023-12-23,Beauty & Health,Bronze,1.0,6.7
+CUST-1108,19.0,Female,Chicago,Medium,2023-07-15,Beauty & Health,Bronze,3.0,9.1
+CUST-1418,34.0,Other,Seattle,Low,2023-12-10,Sports & Outdoors,Bronze,4.0,15.4
+CUST-1587,19.0,Male,Phoenix,Very High,2022-04-22,Electronics,Bronze,5.0,1.7
+CUST-1139,48.0,Female,Austin,Low,2022-06-11,Sports & Outdoors,Platinum,4.0,9.0
+CUST-1299,35.0,Other,Chicago,Medium,2023-05-11,Beauty & Health,Silver,1.0,7.0
+CUST-1063,41.0,Female,Chicago,Low,2022-11-21,Fashion,Bronze,4.0,9.4
+CUST-1669,44.0,Other,Denver,Low,2024-06-14,Fashion,Bronze,4.0,17.7
+CUST-1841,34.0,Other,Los Angeles,Very High,2024-02-25,Fashion,Platinum,3.0,2.3
+CUST-1779,18.0,Other,Denver,Medium,2024-01-08,Home & Living,Silver,4.0,3.5
+CUST-1232,28.0,Male,Houston,High,2024-02-22,Electronics,Bronze,3.0,14.0
+CUST-2033,24.0,Female,Seattle,Low,2024-05-18,Beauty & Health,Gold,4.0,9.5
+CUST-2088,47.0,Other,Austin,Very High,2023-04-27,Beauty & Health,Gold,5.0,10.6
+CUST-1450,48.0,female,Phoenix,Low,2023-07-26,Sports & Outdoors,Silver,5.0,11.7
+CUST-1099,58.0,Male,Austin,Medium,2022-12-27,Fashion,Platinum,5.0,3.9
+CUST-1064,52.0,Female,Seattle,Medium,2022-06-02,Fashion,Bronze,4.0,6.8
+CUST-1738,52.0,Female,Houston,Low,2022-07-24,Beauty & Health,Silver,3.0,6.4
+CUST-1401,44.0,male,Denver,Medium,2023-11-27,Home & Living,Bronze,3.0,14.8
+CUST-1436,48.0,Male,Los Angeles,Very High,2023-11-28,Fashion,Gold,4.0,1.2
+CUST-1792,26.0,Other,Phoenix,Medium,2022-05-12,Fashion,Bronze,3.0,8.7
+CUST-1958,56.0,Female,Austin,Medium,2023-03-14,Electronics,Bronze,2.0,1.9
+CUST-2042,41.0,female,New York,Medium,2024-02-02,Sports & Outdoors,Silver,4.0,3.5
+CUST-1525,51.0,Female,Chicago,Low,2023-08-07,Sports & Outdoors,Bronze,5.0,8.6
+CUST-1900,18.0,Other,Denver,Medium,2022-07-22,Electronics,Silver,4.0,8.4
+CUST-1422,50.0,Female,Seattle,High,2024-07-15,Fashion,Bronze,4.0,7.0
+CUST-2140,44.0,Other,Houston,Medium,2024-02-12,Beauty & Health,Bronze,4.0,6.3
+CUST-1651,45.0,Male,New York,High,2022-12-03,Electronics,Gold,4.0,7.2
+CUST-1916,36.0,Other,Houston,Medium,2023-12-07,Electronics,Bronze,5.0,12.5
+CUST-1763,58.0,Male,Austin,Medium,2024-04-08,Beauty & Health,Bronze,3.0,5.6
+CUST-1484,43.0,Male,Los Angeles,High,2024-05-28,Beauty & Health,Bronze,4.0,4.8
+CUST-2113,45.0,Other,Seattle,Low,2022-09-09,Electronics,Platinum,5.0,2.5
+CUST-1923,31.0,Male,Seattle,Very High,2024-07-14,Home & Living,Bronze,4.0,5.6
+CUST-1736,37.0,Female,Houston,Medium,2024-04-17,Electronics,Silver,4.0,7.0
+CUST-1226,50.0,Female,Phoenix,High,2023-10-24,Beauty & Health,Gold,3.0,11.1
+CUST-1347,24.0,Male,Phoenix,Medium,2022-05-16,Fashion,Silver,5.0,5.9
+CUST-1107,31.0,Male,Los Angeles,Low,2023-05-12,Home & Living,Silver,4.0,13.5
+CUST-1501,37.0,Male,Chicago,Low,2022-02-01,Beauty & Health,Gold,4.0,3.1
+CUST-1010,22.0,Female,Austin,Low,2024-01-13,Fashion,Bronze,4.0,6.5
+CUST-1181,32.0,female,Los Angeles,High,2022-06-28,Beauty & Health,Silver,4.0,2.5
+CUST-1749,46.0,other,Denver,Medium,2022-02-12,Sports & Outdoors,Bronze,3.0,17.1
+CUST-1307,24.0,Female,Houston,Low,2024-08-31,Home & Living,Bronze,4.0,17.4
+CUST-1990,24.0,Male,New York,Very High,2022-11-23,Sports & Outdoors,Silver,3.0,10.5
+CUST-1606,41.0,Female,New York,Low,2022-11-22,Electronics,Bronze,5.0,6.8
+CUST-1883,21.0,Other,Seattle,Medium,2024-09-12,Fashion,Bronze,2.0,9.3
+CUST-1699,31.0,Female,Phoenix,Medium,2023-10-25,Beauty & Health,Gold,3.0,2.2
+CUST-1172,29.0,Other,Los Angeles,Low,2024-08-23,Beauty & Health,Bronze,3.0,8.8
+CUST-1971,28.0,Other,Los Angeles,High,2022-10-27,Sports & Outdoors,Bronze,3.0,9.0
+CUST-1205,50.0,Other,Phoenix,High,2023-11-20,Sports & Outdoors,Bronze,5.0,12.5
+CUST-1464,41.0,Male,Denver,Very High,2024-05-03,Electronics,Gold,4.0,4.3
+CUST-1394,37.0,Female,Austin,Low,2023-12-29,Fashion,Silver,5.0,3.7
+CUST-1534,25.0,Male,Denver,Medium,2022-11-21,Fashion,Silver,2.0,0.8
+CUST-1919,31.0,Female,Houston,Very High,2023-12-21,Sports & Outdoors,Bronze,5.0,5.5
+CUST-1458,32.0,Other,Phoenix,,2024-07-21,Home & Living,Gold,,7.8
+CUST-1009,38.0,F,Chicago,Low,2022-03-12,Sports & Outdoors,Bronze,4.0,19.9
+CUST-2075,37.0,Male,Houston,Low,2024-06-21,Fashion,Bronze,5.0,0.5
+CUST-1556,19.0,other,Austin,Low,2022-07-31,Home & Living,Bronze,2.0,5.9
+CUST-1727,19.0,Other,Chicago,Low,2022-05-07,Sports & Outdoors,Bronze,3.0,8.1
+CUST-1367,33.0,Female,Austin,Low,2023-04-11,Home & Living,Silver,,12.1
+CUST-1492,53.0,Male,Seattle,Very High,2022-10-28,Sports & Outdoors,Silver,5.0,4.8
+CUST-2090,18.0,Female,Los Angeles,Medium,2022-04-11,Fashion,Silver,4.0,9.0
+CUST-1241,35.0,Female,Houston,Low,2024-02-13,Beauty & Health,Silver,4.0,13.9
+CUST-2126,39.0,M,Phoenix,Very High,2022-12-09,Electronics,Bronze,3.0,6.5
+CUST-2079,25.0,Other,Seattle,Low,2024-10-20,Fashion,Silver,4.0,5.9
+CUST-1217,26.0,Other,New York,Medium,2024-02-24,Fashion,Silver,4.0,2.9
+CUST-2155,18.0,Female,Denver,High,2023-09-23,Sports & Outdoors,Bronze,1.0,0.8
+CUST-1819,,Male,Austin,Low,2023-12-10,Beauty & Health,Bronze,2.0,11.7
+CUST-2105,66.0,Other,Los Angeles,Medium,2023-03-25,Fashion,Bronze,5.0,8.8
+CUST-1024,37.0,Other,New York,Medium,2024-07-05,Home & Living,Gold,3.0,10.9
+CUST-1938,42.0,other,Chicago,High,2023-09-15,Home & Living,Bronze,5.0,13.1
+CUST-1532,25.0,Other,Seattle,,2022-07-06,Electronics,Gold,5.0,12.1
+CUST-1124,31.0,Other,Chicago,Low,2022-01-09,Home & Living,Silver,4.0,4.5
+CUST-1143,32.0,Male,New York,High,2024-10-08,Sports & Outdoors,Bronze,5.0,1.4
+CUST-1695,32.0,Female,Denver,Medium,2024-02-22,Beauty & Health,Silver,2.0,5.4
+CUST-1626,30.0,Male,New York,High,2023-09-18,Home & Living,Silver,4.0,9.5
+CUST-1109,42.0,O,Los Angeles,Medium,2022-05-20,Electronics,Bronze,3.0,2.2
+CUST-1794,34.0,other,Chicago,Medium,2024-08-02,Beauty & Health,Bronze,4.0,7.4
+CUST-2056,30.0,other,Los Angeles,Medium,2024-05-05,Electronics,Silver,2.0,4.4
+CUST-2150,37.0,Female,New York,Medium,2023-01-11,Sports & Outdoors,Bronze,2.0,4.8
+CUST-1861,18.0,Male,Houston,,2024-01-08,Fashion,Bronze,4.0,11.7
+CUST-1691,42.0,Female,Los Angeles,Very High,2024-09-14,Sports & Outdoors,Bronze,4.0,5.5
+CUST-2178,37.0,Male,Los Angeles,Low,2024-02-01,Electronics,Gold,3.0,8.0
+CUST-1282,32.0,Other,Chicago,Medium,2022-05-22,Home & Living,Bronze,5.0,8.5
+CUST-1319,41.0,Female,Denver,High,2023-02-25,Sports & Outdoors,Gold,3.0,13.6
+CUST-1414,40.0,Female,Houston,High,2024-06-18,Fashion,Bronze,3.0,11.9
+CUST-1670,26.0,Male,Chicago,Medium,2022-02-24,Beauty & Health,Silver,5.0,10.8
+CUST-1390,42.0,other,Chicago,High,2023-10-25,Beauty & Health,Bronze,4.0,2.4
+CUST-1336,62.0,Other,Houston,,2023-04-16,Sports & Outdoors,Gold,4.0,10.9
+CUST-1440,30.0,Male,Seattle,Low,2024-11-13,Sports & Outdoors,Bronze,4.0,10.2
+CUST-1188,27.0,Male,Phoenix,Medium,2024-11-15,Sports & Outdoors,Gold,5.0,5.9
+CUST-1192,44.0,Female,Seattle,Low,2023-04-27,Fashion,Gold,2.0,7.1
+CUST-1465,50.0,Female,Austin,Low,2024-03-12,Beauty & Health,Gold,4.0,10.3
+CUST-1266,54.0,Female,Seattle,High,2024-12-26,Beauty & Health,Gold,3.0,5.6
+CUST-1296,34.0,Other,New York,Medium,2022-02-09,Home & Living,Silver,4.0,13.6
+CUST-1755,36.0,Male,Seattle,Low,2022-02-12,Beauty & Health,Bronze,2.0,8.3
+CUST-1417,26.0,Male,Houston,High,2023-08-19,Home & Living,Gold,5.0,19.4
+CUST-1436,48.0,Male,Los Angeles,Very High,2023-11-28,Fashion,Gold,4.0,1.2
+CUST-1187,37.0,Female,New York,Medium,2024-08-16,Beauty & Health,Gold,5.0,4.7
+CUST-1700,19.0,Male,New York,Medium,2022-12-15,Beauty & Health,Silver,4.0,6.7
+CUST-2083,34.0,Female,Houston,Medium,2024-09-07,Sports & Outdoors,Silver,4.0,4.7
+CUST-1833,32.0,Female,Seattle,Low,2024-02-04,Electronics,Gold,4.0,6.8
+CUST-2065,48.0,Female,Chicago,Low,2024-01-06,Fashion,Gold,4.0,2.3
+CUST-1424,61.0,Female,Seattle,Medium,2022-04-07,Sports & Outdoors,Silver,4.0,4.9
+CUST-1902,35.0,Male,Austin,Medium,2023-12-29,Sports & Outdoors,Gold,4.0,7.5
+CUST-2036,21.0,Male,Seattle,High,2024-08-07,Electronics,Silver,3.0,6.8
+CUST-2164,24.0,Male,Austin,Medium,2024-03-15,Electronics,Silver,5.0,7.5
+CUST-1300,22.0,Female,Phoenix,High,2024-06-20,Home & Living,Bronze,4.0,2.3
+CUST-1472,34.0,Other,Seattle,High,2024-05-19,Beauty & Health,Silver,3.0,5.4
+CUST-1105,57.0,Female,Los Angeles,Medium,2022-04-09,Electronics,Bronze,4.0,3.1
+CUST-1981,56.0,Other,Chicago,Medium,2023-10-22,Beauty & Health,Bronze,2.0,9.7
+CUST-2000,37.0,Other,Phoenix,Medium,2023-06-01,Home & Living,Silver,3.0,2.0
+CUST-1162,50.0,Other,New York,Medium,2023-01-18,Home & Living,Silver,4.0,11.0
+CUST-1642,49.0,Male,Los Angeles,Low,2022-06-14,Fashion,Gold,3.0,3.3
+CUST-1661,38.0,Male,Chicago,High,2022-09-17,Beauty & Health,Gold,4.0,13.2
+CUST-1787,,Other,Chicago,Low,2023-10-25,Fashion,Silver,3.0,6.5
+CUST-1903,28.0,Female,Seattle,Medium,2024-11-18,Fashion,Gold,1.0,3.5
+CUST-1854,18.0,Female,New York,Low,2024-09-17,Home & Living,Bronze,2.0,8.1
+CUST-1665,50.0,Other,Houston,High,2022-11-16,Sports & Outdoors,Silver,3.0,6.5
+CUST-2116,53.0,Other,Phoenix,Very High,2022-03-14,Sports & Outdoors,Bronze,1.0,8.1
+CUST-1199,18.0,Female,Chicago,Low,2023-01-10,Home & Living,Silver,4.0,7.5
+CUST-1875,24.0,Other,Houston,Medium,2024-06-29,Sports & Outdoors,Bronze,4.0,9.1
+CUST-1413,35.0,Male,Phoenix,Medium,2023-03-27,Electronics,Gold,4.0,4.6
+CUST-1175,36.0,Male,New York,Very High,2023-10-07,Fashion,Gold,4.0,1.1
+CUST-1511,,Male,Seattle,Medium,2022-12-14,Fashion,Platinum,4.0,4.2
+CUST-1936,42.0,Other,Seattle,High,2022-06-17,Home & Living,Bronze,3.0,7.7
+CUST-1269,25.0,Male,Austin,Medium,2024-01-01,Fashion,Bronze,4.0,4.3
+CUST-1229,57.0,Male,Seattle,Low,2022-01-09,Home & Living,Bronze,4.0,20.6
+CUST-1898,47.0,Other,Denver,Medium,2023-03-26,Beauty & Health,Gold,4.0,7.7
+CUST-2181,18.0,Other,Los Angeles,Very High,2024-06-20,Sports & Outdoors,Bronze,4.0,1.3
+CUST-1845,34.0,Other,Austin,Low,2024-07-16,Home & Living,Gold,5.0,9.1
+CUST-1868,38.0,Male,Austin,Low,2022-03-04,Home & Living,Silver,3.0,5.0
+CUST-1799,44.0,Male,Houston,Medium,2022-11-22,Fashion,Bronze,2.0,6.5
+CUST-1999,46.0,Other,Austin,High,2024-11-11,Beauty & Health,Platinum,,2.9
+CUST-2104,21.0,Female,Denver,Very High,2024-09-19,Fashion,Gold,5.0,5.7
+CUST-1206,40.0,Female,Seattle,Low,2022-04-17,Electronics,Silver,4.0,4.8
+CUST-1404,40.0,Male,Seattle,Low,2022-09-25,Electronics,Gold,4.0,3.8
+CUST-2046,32.0,Other,Seattle,Medium,2022-08-05,Sports & Outdoors,Bronze,5.0,6.7
+CUST-1131,37.0,Female,Denver,,2023-01-02,Sports & Outdoors,Gold,4.0,12.7
+CUST-1873,,Female,Houston,High,2022-03-14,Beauty & Health,Bronze,2.0,4.3
+CUST-1750,32.0,Male,Phoenix,Medium,2023-04-14,Electronics,Silver,2.0,4.1
+CUST-1185,37.0,Male,Phoenix,Medium,2023-05-30,Fashion,Silver,4.0,8.5
+CUST-1446,30.0,Male,Seattle,Medium,2024-06-03,Home & Living,Bronze,4.0,3.5
+CUST-1957,,Female,New York,Medium,2024-01-26,Home & Living,Bronze,,15.7
+CUST-2193,60.0,Female,Los Angeles,Medium,2023-07-25,Sports & Outdoors,Silver,3.0,2.6
+CUST-1870,36.0,Male,Denver,High,2023-03-17,Fashion,Gold,4.0,2.4
+CUST-1119,51.0,Male,Denver,Low,2022-12-31,Sports & Outdoors,Bronze,4.0,9.2
+CUST-1552,56.0,O,Phoenix,Medium,2022-02-14,Home & Living,Bronze,4.0,4.5
+CUST-1596,,Male,Denver,Very High,2024-01-01,Beauty & Health,Bronze,3.0,9.8
+CUST-1644,42.0,Female,Phoenix,High,2023-05-24,Beauty & Health,Bronze,3.0,11.0
+CUST-1949,26.0,Male,Los Angeles,Low,2022-01-27,Home & Living,Silver,5.0,2.6
+CUST-1342,41.0,Female,Seattle,Low,2022-01-23,Electronics,Bronze,5.0,9.2
+CUST-1335,55.0,Other,Phoenix,High,2024-04-22,Home & Living,Bronze,4.0,5.4
+CUST-1927,21.0,Other,Austin,Low,2022-05-05,Sports & Outdoors,Silver,5.0,8.1
+CUST-1726,35.0,Male,Seattle,Medium,2023-06-27,Home & Living,Gold,4.0,10.0
+CUST-1456,35.0,Female,Houston,Medium,2024-11-04,Home & Living,Gold,2.0,13.0
+CUST-1354,50.0,Other,Houston,,2024-06-11,Fashion,Bronze,4.0,4.7
+CUST-1362,60.0,Other,Denver,High,2022-04-09,Sports & Outdoors,Silver,5.0,2.5
+CUST-1135,31.0,Male,Denver,Medium,2023-06-07,Fashion,Bronze,3.0,4.3
+CUST-1533,49.0,Female,Houston,Medium,2024-06-11,Sports & Outdoors,Bronze,4.0,4.3
+CUST-1156,42.0,Other,Chicago,High,2022-12-24,Sports & Outdoors,Bronze,3.0,5.5
+CUST-1753,50.0,Other,Phoenix,High,2022-11-09,Sports & Outdoors,Bronze,5.0,9.5
+CUST-2129,52.0,Male,Phoenix,Low,2024-06-14,Electronics,Gold,5.0,7.1
+CUST-1375,26.0,Male,Seattle,Low,2023-01-16,Beauty & Health,Gold,4.0,8.8
+CUST-1813,36.0,Other,Houston,Low,2024-12-20,Sports & Outdoors,Bronze,5.0,5.7
+CUST-1078,41.0,Female,New York,Medium,2023-12-14,Home & Living,Bronze,3.0,13.9
+CUST-1630,29.0,Male,Austin,Medium,2022-02-05,Home & Living,Silver,4.0,8.2
+CUST-1932,20.0,Other,Los Angeles,High,2023-01-16,Beauty & Health,Silver,5.0,17.6
+CUST-1817,49.0,Female,Phoenix,Medium,2023-12-08,Sports & Outdoors,Bronze,5.0,2.3
+CUST-1309,34.0,Male,Houston,Medium,2023-06-05,Electronics,Bronze,2.0,3.3
+CUST-1516,37.0,other,New York,Medium,2024-03-21,Fashion,Silver,4.0,15.7
+CUST-1793,28.0,Female,Denver,High,2022-08-22,Beauty & Health,Silver,2.0,4.8
+CUST-1802,38.0,Female,New York,Very High,2022-07-12,Home & Living,Bronze,4.0,3.8
+CUST-2168,53.0,Female,Chicago,High,2024-03-06,Beauty & Health,Bronze,1.0,6.9
+CUST-1155,45.0,Other,Seattle,Low,2024-09-05,Sports & Outdoors,Silver,5.0,5.0
+CUST-1095,24.0,Female,Los Angeles,Very High,2023-02-13,Fashion,Bronze,4.0,9.7
+CUST-1991,20.0,Male,Phoenix,High,2024-06-02,Fashion,Bronze,1.0,4.5
+CUST-1138,18.0,Female,Denver,Low,2023-10-16,Beauty & Health,Silver,5.0,5.7
+CUST-1149,18.0,Female,Chicago,Medium,2023-07-27,Home & Living,Platinum,2.0,5.1
+CUST-2029,42.0,Male,Los Angeles,Medium,2024-09-11,Sports & Outdoors,Bronze,3.0,12.6
+CUST-1720,35.0,Other,Los Angeles,Low,2024-01-19,Home & Living,Bronze,3.0,4.0
+CUST-1449,41.0,Male,Seattle,Medium,2022-11-08,Electronics,Bronze,3.0,13.5
+CUST-1871,34.0,Male,Houston,Very High,2023-07-23,Beauty & Health,Silver,4.0,3.3
+CUST-1523,34.0,Other,Chicago,Medium,2024-05-12,Beauty & Health,Gold,3.0,2.1
+CUST-1804,25.0,M,Phoenix,Low,2022-04-21,Beauty & Health,Silver,5.0,19.5
+CUST-2014,50.0,other,Houston,Medium,2024-05-18,Home & Living,Bronze,5.0,12.7
+CUST-2021,33.0,Other,Phoenix,Medium,2024-05-26,Sports & Outdoors,Gold,4.0,13.3
+CUST-1214,45.0,other,Phoenix,Low,2023-01-24,Sports & Outdoors,Bronze,3.0,3.4
+CUST-1899,53.0,Other,New York,Medium,2022-01-29,Beauty & Health,Platinum,4.0,12.8
+CUST-1203,33.0,Male,Seattle,Low,2022-05-19,Electronics,Bronze,4.0,4.4
+CUST-1671,18.0,female,Seattle,High,2022-08-14,Fashion,Silver,3.0,8.2
+CUST-1114,,Other,Phoenix,Medium,2022-03-17,Beauty & Health,Platinum,4.0,3.9
+CUST-1911,43.0,Female,Los Angeles,Very High,2022-01-06,Electronics,Platinum,,4.6
+CUST-1887,56.0,Female,Seattle,Low,2024-05-06,Home & Living,Gold,4.0,6.7
+CUST-1028,46.0,Other,Denver,Low,2022-04-16,Beauty & Health,Bronze,5.0,1.8
+CUST-2145,26.0,Male,New York,,2024-09-28,Sports & Outdoors,Bronze,4.0,6.0
+CUST-1507,27.0,Other,Denver,Medium,2022-08-07,Beauty & Health,Gold,5.0,4.1
+CUST-2109,52.0,Female,Denver,,2024-02-19,Sports & Outdoors,Silver,4.0,12.5
+CUST-1714,33.0,Other,Seattle,High,2023-08-27,Home & Living,Platinum,4.0,6.1
+CUST-1956,32.0,Male,Houston,Medium,2022-04-07,Beauty & Health,Bronze,5.0,1.5
+CUST-1133,23.0,Male,Austin,Very High,2024-08-31,Sports & Outdoors,Bronze,3.0,16.2
+CUST-1945,27.0,Other,New York,Medium,2022-01-09,Electronics,Silver,4.0,15.2
+CUST-1771,22.0,Other,Houston,Medium,2022-02-26,Home & Living,Bronze,5.0,7.3
+CUST-1371,41.0,Female,Chicago,Low,2023-08-18,Electronics,Platinum,5.0,4.4
+CUST-1434,18.0,Male,Denver,Low,2024-04-10,Home & Living,Bronze,4.0,3.3
+CUST-2093,25.0,Other,Chicago,Low,2024-08-12,Electronics,Silver,4.0,7.4
+CUST-1168,40.0,Other,Houston,Medium,2023-08-13,Electronics,Bronze,3.0,4.7
+CUST-2125,62.0,Other,Austin,Medium,2022-08-30,Sports & Outdoors,Bronze,5.0,6.8
+CUST-1524,40.0,Female,Austin,Low,2023-12-18,Sports & Outdoors,Bronze,4.0,4.7
+CUST-1389,43.0,Male,Chicago,Low,2022-07-21,Home & Living,Bronze,1.0,11.2
+CUST-1228,29.0,Male,Los Angeles,Medium,2024-11-08,Home & Living,Bronze,4.0,3.7
+CUST-1462,28.0,Female,Denver,High,2023-03-24,Beauty & Health,Silver,4.0,5.6
+CUST-1979,18.0,Male,Austin,Medium,2022-02-28,Beauty & Health,Bronze,3.0,5.0
+CUST-2137,38.0,Male,Houston,Medium,2024-05-05,Beauty & Health,Silver,4.0,9.2
+CUST-1426,49.0,Other,Los Angeles,High,2023-10-23,Home & Living,Bronze,5.0,7.1
+CUST-1598,26.0,Other,Chicago,Low,2022-12-19,Beauty & Health,Bronze,3.0,2.4
+CUST-1952,37.0,Female,Phoenix,Medium,2024-11-30,Beauty & Health,Silver,3.0,2.9
+CUST-1627,18.0,Other,Phoenix,Low,2024-06-24,Electronics,Bronze,5.0,3.5
+CUST-1289,45.0,Female,Phoenix,Medium,2023-08-19,Fashion,Silver,3.0,11.5
+CUST-1869,24.0,Female,Denver,Medium,2022-01-25,Electronics,Bronze,3.0,3.5
+CUST-1295,46.0,Female,Los Angeles,High,2024-04-08,Electronics,Bronze,5.0,3.9
+CUST-1557,31.0,Female,Austin,High,2023-02-19,Home & Living,Silver,4.0,3.3
+CUST-1652,51.0,Other,Seattle,Low,2023-03-08,Fashion,Bronze,3.0,4.2
+CUST-1369,39.0,F,Houston,High,2023-05-20,Sports & Outdoors,Bronze,5.0,5.3
+CUST-1173,52.0,Female,Austin,Medium,2024-11-08,Sports & Outdoors,Bronze,1.0,8.0
+CUST-1085,39.0,Other,New York,High,2023-09-24,Electronics,Gold,2.0,4.3
+CUST-1537,35.0,Male,Los Angeles,Medium,2022-01-06,Home & Living,Silver,4.0,12.3
+CUST-2191,27.0,Female,Chicago,Low,2022-07-22,Home & Living,Gold,5.0,1.8
+CUST-1584,25.0,Other,New York,Low,2024-02-03,Electronics,Platinum,2.0,8.5
+CUST-2200,18.0,Female,Houston,Medium,2024-03-16,Sports & Outdoors,Platinum,3.0,1.9
+CUST-1090,33.0,Female,Austin,Medium,2023-11-19,Beauty & Health,Bronze,5.0,8.0
+CUST-1364,31.0,M,Chicago,Medium,2023-03-03,Home & Living,Bronze,5.0,1.6
+CUST-1197,29.0,Male,Los Angeles,Low,2023-11-16,Beauty & Health,Silver,2.0,3.8
+CUST-1984,56.0,Female,Los Angeles,Low,2024-05-10,Sports & Outdoors,Bronze,4.0,4.8
+CUST-1084,49.0,Other,Austin,Low,2024-11-07,Fashion,Bronze,4.0,13.7
+CUST-1259,41.0,male,Austin,Medium,2022-09-27,Electronics,Silver,4.0,0.5
+CUST-1235,18.0,Other,Austin,High,2022-04-28,Sports & Outdoors,Bronze,5.0,4.0
+CUST-1666,22.0,Other,Los Angeles,High,2022-08-06,Electronics,Silver,3.0,3.0
+CUST-1707,32.0,Female,Denver,Medium,2024-03-01,Beauty & Health,Silver,5.0,4.0
+CUST-1474,31.0,Other,Austin,Low,2023-04-15,Beauty & Health,Bronze,4.0,6.1
+CUST-1622,22.0,Male,Denver,Medium,2024-03-14,Beauty & Health,Bronze,3.0,3.6
+CUST-2067,31.0,Male,Houston,High,2022-05-25,Fashion,Gold,4.0,7.3
+CUST-1683,39.0,Male,Phoenix,Low,2022-04-22,Beauty & Health,Gold,5.0,10.7
+CUST-1905,39.0,Female,New York,Medium,2024-03-16,Fashion,Silver,5.0,10.6
+CUST-1515,50.0,Male,New York,Low,2022-12-03,Home & Living,Bronze,4.0,2.4
+CUST-1760,46.0,Other,Los Angeles,Low,2022-11-21,Sports & Outdoors,Bronze,2.0,4.9
+CUST-1563,38.0,Male,Houston,Low,2023-10-08,Home & Living,Gold,4.0,6.9
+CUST-1477,37.0,Male,Chicago,Very High,2022-07-20,Fashion,Bronze,3.0,3.0
+CUST-1876,28.0,Other,Los Angeles,Medium,2023-12-25,Sports & Outdoors,Silver,5.0,8.9
+CUST-1040,36.0,Male,Chicago,Medium,2024-03-06,Fashion,Silver,1.0,4.8
+CUST-1517,18.0,Male,Phoenix,High,2024-02-23,Beauty & Health,Silver,4.0,5.1
+CUST-1920,30.0,Male,Phoenix,Medium,2024-01-11,Beauty & Health,Bronze,3.0,13.8
+CUST-1435,23.0,Female,Austin,Medium,2022-06-26,Home & Living,Gold,4.0,3.7
+CUST-1322,31.0,Male,Houston,Low,2024-10-02,Electronics,Silver,4.0,5.7
+CUST-1392,25.0,Other,Phoenix,Medium,2023-08-29,Electronics,Silver,1.0,6.7
+CUST-2185,22.0,Other,Austin,Low,2022-01-15,Fashion,Bronze,4.0,1.4
+CUST-2038,27.0,Other,New York,Very High,2022-06-29,Sports & Outdoors,Silver,4.0,6.5
+CUST-1482,19.0,Male,New York,Medium,2022-09-21,Beauty & Health,Platinum,4.0,7.0
+CUST-1716,31.0,Female,Houston,Very High,2024-11-18,Sports & Outdoors,Silver,4.0,3.7
+CUST-1684,45.0,Female,New York,Very High,2024-04-27,Fashion,Silver,3.0,5.2
+CUST-1323,45.0,Other,Austin,Medium,2024-01-24,Beauty & Health,Silver,3.0,8.0
+CUST-2167,29.0,Other,New York,Medium,2022-09-30,Home & Living,Platinum,5.0,4.0
+CUST-1267,52.0,Male,Denver,High,2024-02-23,Beauty & Health,Gold,1.0,16.6
+CUST-1773,29.0,Female,New York,High,2023-01-26,Sports & Outdoors,Bronze,5.0,7.9
+CUST-1741,34.0,Female,Seattle,High,2022-11-06,Fashion,Gold,5.0,4.1
+CUST-1065,54.0,Other,Seattle,High,2022-03-18,Electronics,Gold,3.0,7.3
+CUST-1572,36.0,Female,Houston,Low,2024-05-25,Beauty & Health,Silver,4.0,6.0
+CUST-1620,41.0,Male,Denver,Medium,2023-10-24,Home & Living,Bronze,5.0,5.4
+CUST-1189,,Other,Los Angeles,High,2023-11-17,Sports & Outdoors,Silver,4.0,17.4
+CUST-1030,40.0,Male,Chicago,Medium,2024-09-25,Home & Living,Silver,,7.4
+CUST-1748,39.0,Female,Los Angeles,High,2023-11-14,Home & Living,Platinum,3.0,5.7
+CUST-2149,35.0,Male,Austin,High,2023-05-31,Home & Living,Bronze,4.0,7.5
+CUST-1867,45.0,Other,New York,Very High,2024-01-19,Home & Living,Bronze,4.0,7.7
+CUST-2068,46.0,Other,Denver,Medium,2024-07-12,Fashion,Bronze,4.0,6.3
+CUST-2147,53.0,Male,Austin,High,2024-08-09,Electronics,Bronze,4.0,2.0
+CUST-1558,22.0,Female,New York,High,2023-07-09,Beauty & Health,Platinum,5.0,9.9
+CUST-1746,38.0,Other,Los Angeles,Medium,2022-07-14,Home & Living,Bronze,2.0,9.1
+CUST-1280,44.0,Male,Seattle,Very High,2022-09-13,Sports & Outdoors,Gold,2.0,3.3
+CUST-2015,28.0,Other,Los Angeles,High,2024-08-27,Home & Living,Bronze,5.0,11.7
+CUST-1836,27.0,Other,Seattle,Medium,2023-04-16,Electronics,Silver,4.0,1.4
+CUST-1531,30.0,Female,Austin,Medium,2022-11-07,Sports & Outdoors,Bronze,5.0,1.4
+CUST-1327,53.0,Male,Seattle,Medium,2023-05-21,Electronics,Silver,4.0,1.1
+CUST-1005,67.0,Female,Austin,High,2023-03-03,Beauty & Health,Silver,5.0,10.0
+CUST-1315,27.0,Female,Seattle,Low,2022-03-08,Fashion,Platinum,4.0,5.6
+CUST-1915,33.0,Other,Austin,Low,2022-10-13,Electronics,Silver,3.0,19.8
+CUST-2010,51.0,Other,Houston,Medium,2023-05-11,Sports & Outdoors,Platinum,2.0,7.3
+CUST-1070,18.0,Female,Phoenix,Medium,2023-03-10,Fashion,Silver,1.0,2.3
+CUST-1573,37.0,Other,Phoenix,Medium,2024-11-12,Fashion,Bronze,4.0,12.0
+CUST-1207,34.0,Female,Chicago,Medium,2023-04-04,Home & Living,Bronze,5.0,3.8
+CUST-1970,39.0,Other,Denver,Medium,2023-11-19,Home & Living,Silver,2.0,11.5
+CUST-1561,18.0,Female,Denver,Medium,2022-02-17,Beauty & Health,Bronze,2.0,3.1
+CUST-1784,44.0,F,Los Angeles,Low,2023-08-20,Sports & Outdoors,Gold,5.0,1.3
+CUST-1147,18.0,Other,Austin,High,2023-04-25,Home & Living,Bronze,4.0,2.8
+CUST-1016,19.0,Male,Denver,Low,2022-04-28,Home & Living,Gold,3.0,15.5
+CUST-1407,52.0,Other,Los Angeles,High,2022-12-16,Beauty & Health,Silver,2.0,10.1
+CUST-1530,44.0,Other,Chicago,Medium,2022-02-27,Home & Living,Bronze,3.0,3.5
+CUST-2190,35.0,Male,Austin,Very High,2023-04-22,Sports & Outdoors,Silver,4.0,11.4
+CUST-2092,25.0,Other,Houston,Medium,2024-03-24,Sports & Outdoors,Silver,4.0,24.4
+CUST-1174,40.0,Female,New York,Medium,2024-06-16,Beauty & Health,Silver,4.0,5.8
+CUST-1984,56.0,Female,Los Angeles,Low,2024-05-10,Sports & Outdoors,Bronze,,4.8
+CUST-2132,49.0,Other,Houston,Medium,2023-07-11,Sports & Outdoors,Platinum,4.0,4.5
+CUST-2173,31.0,Female,Chicago,Medium,2023-12-29,Electronics,Silver,4.0,6.6
+CUST-1585,43.0,Female,Seattle,Low,2022-02-24,Sports & Outdoors,Bronze,3.0,7.6
+CUST-1837,28.0,Male,Houston,Medium,2023-12-28,Electronics,Silver,5.0,14.0
+CUST-1942,45.0,Other,Phoenix,High,2022-07-28,Electronics,Silver,,27.5
+CUST-1059,51.0,Other,Los Angeles,Low,2022-01-27,Sports & Outdoors,Gold,1.0,1.9
+CUST-1848,42.0,Male,New York,Medium,2022-12-22,Sports & Outdoors,Gold,3.0,7.2
+CUST-1273,49.0,other,Phoenix,Medium,2022-04-23,Beauty & Health,Gold,3.0,6.1
+CUST-1081,31.0,Female,Houston,Very High,2022-10-04,Fashion,Bronze,5.0,1.4
+CUST-2019,25.0,female,Phoenix,High,2022-09-08,Electronics,Bronze,1.0,2.8
+CUST-1249,34.0,Female,Phoenix,High,2023-01-01,Beauty & Health,Bronze,3.0,16.0
+CUST-1717,37.0,Female,Los Angeles,Medium,2023-09-28,Sports & Outdoors,Bronze,4.0,9.6
+CUST-1234,29.0,Other,New York,Medium,2023-11-20,Beauty & Health,Bronze,4.0,12.5
+CUST-2161,37.0,Male,Los Angeles,Medium,2022-06-02,Home & Living,Gold,5.0,16.2
+CUST-1575,27.0,female,Phoenix,Very High,2022-04-27,Fashion,Bronze,2.0,13.6
+CUST-1818,29.0,Female,New York,Medium,2024-07-26,Home & Living,Bronze,5.0,10.6
+CUST-1491,46.0,Other,Denver,Low,2022-07-18,Sports & Outdoors,Bronze,5.0,6.5
+CUST-1902,35.0,Male,Austin,Medium,2023-12-29,Sports & Outdoors,Gold,4.0,7.5
+CUST-2071,24.0,Female,Austin,Medium,2022-11-12,Home & Living,Bronze,3.0,4.7
+CUST-1443,22.0,Female,Seattle,Medium,2022-12-16,Home & Living,Silver,2.0,8.4
+CUST-2045,38.0,Female,Austin,Low,2022-08-19,Electronics,Bronze,4.0,2.9
+CUST-2098,29.0,Other,New York,Medium,2023-12-06,Beauty & Health,Platinum,5.0,9.7
+CUST-1265,26.0,Male,Austin,High,2024-06-19,Beauty & Health,Gold,5.0,11.5
+CUST-1339,24.0,Other,Austin,High,2023-05-05,Home & Living,Gold,5.0,8.4
+CUST-1880,29.0,Female,New York,Medium,2023-07-04,Electronics,Bronze,1.0,6.4
+CUST-1583,30.0,Female,New York,High,2022-10-16,Electronics,Silver,5.0,2.3
+CUST-1687,34.0,Other,Los Angeles,Medium,2022-12-19,Home & Living,Bronze,1.0,4.0
+CUST-2154,,Male,Chicago,Low,2023-10-02,Fashion,Bronze,3.0,13.5
+CUST-1054,37.0,Other,Phoenix,High,2022-10-07,Home & Living,Silver,4.0,9.9
+CUST-1393,31.0,Female,Houston,Medium,2023-09-06,Sports & Outdoors,Silver,1.0,6.3
+CUST-1838,43.0,Male,Austin,High,2023-09-14,Sports & Outdoors,Silver,5.0,13.9
+CUST-1087,54.0,Other,Phoenix,Medium,2022-11-08,Sports & Outdoors,Gold,4.0,13.7
+CUST-1442,,Female,Denver,Medium,2024-11-03,Sports & Outdoors,Silver,4.0,7.6
+CUST-1621,20.0,Female,Houston,High,2024-12-17,Fashion,Silver,2.0,1.2
+CUST-2037,33.0,Female,Austin,Low,2023-04-22,Electronics,Gold,3.0,6.5
+CUST-1463,31.0,Male,Chicago,Medium,2023-01-28,Beauty & Health,Platinum,5.0,1.0
+CUST-1721,39.0,female,New York,High,2023-08-16,Sports & Outdoors,Platinum,4.0,13.4
+CUST-1177,39.0,Other,New York,Medium,2023-12-21,Sports & Outdoors,Silver,4.0,6.1
+CUST-1566,28.0,Female,New York,Very High,2022-06-25,Beauty & Health,Bronze,3.0,13.3
+CUST-1118,32.0,Male,Chicago,Medium,2023-10-17,Electronics,Silver,2.0,12.1
+CUST-1544,46.0,Female,Phoenix,High,2024-07-25,Home & Living,Platinum,4.0,12.4
+CUST-1329,27.0,Female,Los Angeles,High,2023-06-13,Fashion,Bronze,1.0,9.1
+CUST-1125,30.0,Male,Seattle,Low,2023-06-27,Electronics,Bronze,2.0,4.1
+CUST-1934,44.0,O,Denver,Medium,2023-05-14,Home & Living,Gold,3.0,6.7
+CUST-1039,21.0,Female,Phoenix,,2024-12-22,Electronics,Gold,5.0,3.6
+CUST-1894,18.0,Other,Seattle,Low,2022-09-19,Sports & Outdoors,Gold,4.0,5.9
+CUST-1526,18.0,Other,Los Angeles,Medium,2023-01-17,Electronics,Bronze,5.0,16.7
+CUST-1425,18.0,Female,Seattle,Very High,2022-07-22,Home & Living,Silver,4.0,10.6
+CUST-1782,36.0,Female,Phoenix,Very High,2023-12-30,Home & Living,Bronze,5.0,7.1
+CUST-1121,54.0,male,Houston,Low,2024-05-17,Home & Living,Bronze,5.0,3.6
+CUST-1977,23.0,Male,Austin,Medium,2023-03-19,Beauty & Health,Bronze,3.0,8.3
+CUST-1467,29.0,Other,Phoenix,Medium,2024-07-06,Beauty & Health,Bronze,5.0,16.6
+CUST-1686,43.0,Female,Houston,High,2023-02-08,Sports & Outdoors,Bronze,4.0,8.0
+CUST-1294,39.0,Male,Austin,Very High,2024-04-10,Electronics,Bronze,4.0,3.1
+CUST-1886,35.0,Male,Los Angeles,Very High,2024-08-16,Fashion,Bronze,5.0,6.5
+CUST-1042,26.0,Female,Houston,Medium,2024-04-15,Fashion,Gold,4.0,11.7
+CUST-2059,43.0,Female,New York,High,2023-03-03,Electronics,Gold,3.0,11.8
+CUST-1165,38.0,Other,Seattle,Medium,2023-05-19,Electronics,Gold,4.0,2.8
+CUST-2009,33.0,Other,Denver,High,2022-08-01,Sports & Outdoors,Bronze,4.0,11.4
+CUST-1944,25.0,Female,Denver,High,2022-10-16,Home & Living,Silver,3.0,12.2
+CUST-1132,33.0,Female,Los Angeles,Low,2023-09-21,Sports & Outdoors,Gold,3.0,17.2
+CUST-1055,34.0,Female,Denver,Medium,2022-05-12,Fashion,Silver,3.0,3.0
+CUST-1459,32.0,Male,Houston,High,2022-04-24,Electronics,Silver,4.0,12.1
+CUST-2095,40.0,Male,Houston,Medium,2022-06-21,Fashion,Silver,4.0,6.6
+CUST-1797,18.0,Female,Chicago,Medium,2023-09-03,Electronics,Silver,5.0,4.9
+CUST-1668,43.0,Female,Phoenix,High,2024-03-21,Fashion,Bronze,4.0,3.6
+CUST-1688,,Female,Seattle,Very High,2024-02-26,Sports & Outdoors,Silver,2.0,11.5
+CUST-1933,18.0,Male,Phoenix,Medium,2022-01-01,Fashion,Bronze,3.0,17.6
+CUST-1067,20.0,Other,Seattle,Medium,2023-12-19,Sports & Outdoors,Gold,3.0,13.9
+CUST-1775,24.0,Female,New York,Low,2022-10-26,Fashion,Bronze,4.0,2.8
+CUST-1262,24.0,Other,Austin,Low,2022-11-11,Fashion,Silver,3.0,6.4
+CUST-1805,41.0,Other,Houston,Medium,2024-06-27,Beauty & Health,Bronze,2.0,4.0
+CUST-1791,22.0,Other,Los Angeles,Medium,2022-10-19,Sports & Outdoors,Gold,3.0,5.9
+CUST-1264,38.0,Female,Houston,Medium,2022-07-21,Beauty & Health,Gold,3.0,3.9
+CUST-1161,33.0,Male,Los Angeles,Medium,2022-07-13,Beauty & Health,Platinum,5.0,14.3
+CUST-1260,18.0,Male,New York,Very High,2024-05-25,Home & Living,Silver,3.0,2.2
+CUST-1333,43.0,Other,Denver,Low,2024-10-21,Sports & Outdoors,Bronze,4.0,9.7
+CUST-1439,25.0,Female,Seattle,Low,2024-05-05,Fashion,Platinum,4.0,10.6
+CUST-1429,41.0,Other,Houston,Medium,2024-09-13,Beauty & Health,Bronze,4.0,3.4
+CUST-2048,28.0,Other,Austin,Medium,2023-05-10,Sports & Outdoors,Bronze,5.0,14.0
+CUST-1387,43.0,Female,Denver,High,2023-08-19,Home & Living,Bronze,5.0,6.9
+CUST-1475,31.0,Male,Phoenix,Medium,2022-06-21,Beauty & Health,Gold,4.0,1.8
+CUST-2186,33.0,Female,Houston,Medium,2023-03-12,Home & Living,Gold,3.0,14.8
+CUST-1486,41.0,Male,Denver,Medium,2024-06-14,Fashion,Gold,3.0,9.4
+CUST-1365,31.0,Female,Houston,Low,2024-05-24,Electronics,Bronze,5.0,0.9
+CUST-1551,21.0,Female,Phoenix,Very High,2022-09-13,Fashion,Bronze,1.0,3.3
+CUST-1617,33.0,Male,Seattle,Medium,2024-08-18,Sports & Outdoors,Bronze,5.0,1.8
+CUST-1828,62.0,M,Chicago,Medium,2022-10-01,Electronics,Silver,5.0,11.5
+CUST-2175,36.0,Female,Houston,Medium,2024-03-07,Fashion,Bronze,3.0,6.9
+CUST-1279,48.0,Female,Houston,Medium,2023-06-24,Sports & Outdoors,Gold,,15.7
+CUST-1179,38.0,Female,Denver,High,2022-10-09,Home & Living,Bronze,3.0,13.2
+CUST-1402,41.0,Other,Denver,Low,2024-09-23,Fashion,Gold,5.0,1.5
+CUST-1504,35.0,Other,Austin,Very High,2024-06-03,Sports & Outdoors,Silver,5.0,4.3
+CUST-1548,38.0,other,Chicago,Medium,2024-05-19,Fashion,Silver,5.0,4.6
+CUST-1398,36.0,Other,Austin,Very High,2022-12-14,Beauty & Health,Bronze,3.0,8.1
+CUST-1806,29.0,Female,Denver,High,2023-02-15,Electronics,Silver,3.0,3.8
+CUST-1058,30.0,Other,Austin,Medium,2022-12-21,Beauty & Health,Silver,5.0,10.0
+CUST-2072,46.0,Female,New York,Medium,2024-03-07,Electronics,Platinum,4.0,9.6
+CUST-1815,40.0,Male,Austin,High,2022-01-18,Beauty & Health,Bronze,3.0,18.6
+CUST-1160,48.0,Male,Austin,Medium,2024-07-12,Beauty & Health,Bronze,3.0,9.7
+CUST-1423,43.0,Other,Seattle,Medium,2024-12-14,Fashion,Bronze,3.0,15.6
+CUST-1869,24.0,Female,Denver,Medium,2022-01-25,Electronics,Bronze,3.0,3.5
+CUST-1918,37.0,Male,New York,Medium,2022-01-10,Home & Living,Bronze,3.0,16.5
+CUST-2111,35.0,Male,Seattle,Low,2022-01-16,Home & Living,Gold,4.0,14.3
+CUST-1860,64.0,Female,Los Angeles,Medium,2023-12-12,Beauty & Health,Silver,4.0,12.1
+CUST-1881,29.0,Male,Chicago,Medium,2022-06-29,Sports & Outdoors,Gold,5.0,1.7
+CUST-1754,46.0,Other,Austin,Medium,2024-04-29,Electronics,Gold,3.0,1.8
+CUST-1318,26.0,Other,Los Angeles,Medium,2022-09-06,Electronics,Bronze,,5.8
+CUST-1737,,Male,Seattle,Medium,2023-02-26,Beauty & Health,Silver,3.0,7.3
+CUST-1539,32.0,Male,New York,High,2022-09-22,Home & Living,Platinum,4.0,11.6
+CUST-1256,38.0,Male,Los Angeles,Medium,2023-12-16,Home & Living,Bronze,4.0,11.9
+CUST-1618,,Male,Seattle,Very High,2023-01-13,Electronics,Bronze,5.0,4.8
+CUST-1857,19.0,Other,Houston,Low,2024-01-11,Sports & Outdoors,Silver,3.0,3.3
+CUST-1770,18.0,Other,Denver,Low,2022-10-10,Sports & Outdoors,Bronze,5.0,6.1
+CUST-1774,41.0,Female,Austin,High,2022-09-16,Home & Living,Silver,4.0,17.5
+CUST-1625,28.0,other,Austin,Low,2023-02-04,Fashion,Bronze,,9.5
+CUST-1448,65.0,Female,Phoenix,Medium,2022-02-11,Sports & Outdoors,Bronze,3.0,6.0
+CUST-1718,18.0,Female,Phoenix,Medium,2024-04-17,Electronics,Bronze,3.0,4.2
+CUST-1386,42.0,Female,New York,Low,2023-02-04,Home & Living,Bronze,4.0,18.3
+CUST-1020,31.0,Other,New York,Medium,2023-11-21,Sports & Outdoors,Bronze,,12.2
+CUST-1604,27.0,M,Denver,Low,2023-02-06,Home & Living,Bronze,3.0,3.5
+CUST-1352,49.0,Other,Denver,Medium,2022-03-09,Home & Living,Platinum,4.0,20.7
+CUST-1656,47.0,Male,Houston,Medium,2022-10-13,Fashion,Silver,4.0,16.8
+CUST-1343,47.0,Female,Los Angeles,Low,2023-09-21,Sports & Outdoors,Bronze,4.0,6.1
+CUST-2052,43.0,Other,Houston,Medium,2023-02-02,Beauty & Health,Bronze,4.0,6.6
+CUST-1950,25.0,F,Seattle,Medium,2024-05-02,Home & Living,Bronze,4.0,10.6
+CUST-1904,45.0,Male,Austin,High,2023-02-18,Sports & Outdoors,Silver,3.0,1.3
+CUST-1657,22.0,Other,Houston,Medium,2023-03-06,Sports & Outdoors,Silver,5.0,30.6
+CUST-1157,33.0,male,Seattle,Medium,2023-11-02,Electronics,Gold,5.0,2.1
+CUST-1674,45.0,Male,Chicago,Low,2023-07-25,Beauty & Health,Bronze,4.0,7.7
+CUST-1849,35.0,Other,Phoenix,Low,2023-10-27,Sports & Outdoors,Silver,4.0,10.3
+CUST-1764,56.0,other,Phoenix,Low,2023-10-18,Home & Living,Gold,4.0,6.4
+CUST-1346,30.0,Male,New York,Medium,2022-06-11,Beauty & Health,Bronze,5.0,7.2
+CUST-1578,49.0,Female,Seattle,Very High,2022-07-01,Home & Living,Gold,2.0,3.9
+CUST-1926,31.0,Male,Denver,Medium,2024-07-25,Home & Living,Gold,3.0,14.3
+CUST-1283,19.0,Other,Los Angeles,Low,2022-02-21,Home & Living,Gold,4.0,19.1
+CUST-1302,32.0,Other,Seattle,High,2023-07-12,Beauty & Health,Gold,3.0,6.9
+CUST-1713,32.0,Female,Denver,Very High,2023-11-07,Beauty & Health,Silver,3.0,10.8
+CUST-1939,43.0,Female,New York,Medium,2022-10-28,Fashion,Bronze,2.0,6.8
+CUST-1287,34.0,Other,Seattle,Low,2024-01-15,Fashion,Silver,4.0,7.5
+CUST-1901,18.0,Male,Houston,Low,2024-08-24,Beauty & Health,Platinum,4.0,6.3
+CUST-1370,31.0,Female,New York,Medium,2022-07-16,Fashion,Platinum,3.0,2.9
+CUST-1451,50.0,Male,New York,Medium,2024-03-19,Beauty & Health,Silver,4.0,11.9
+CUST-1947,54.0,Male,Phoenix,High,2023-05-09,Electronics,Bronze,2.0,10.1
+CUST-1166,56.0,Female,Seattle,Low,2024-04-30,Home & Living,Silver,4.0,9.0
+CUST-1859,27.0,Other,New York,Medium,2022-01-21,Sports & Outdoors,Silver,,6.7
+CUST-1313,27.0,Male,Houston,Medium,2022-04-27,Electronics,Silver,2.0,7.5
+CUST-2080,25.0,other,Austin,Low,2024-06-23,Beauty & Health,Silver,3.0,8.8
+CUST-1473,25.0,Other,Houston,Medium,2022-12-31,Electronics,Gold,4.0,1.2
+CUST-1373,50.0,Male,New York,High,2023-01-01,Home & Living,Silver,5.0,7.4
+CUST-1415,53.0,male,Seattle,Low,2024-03-22,Beauty & Health,Gold,2.0,14.8
+CUST-1850,34.0,Other,Chicago,Medium,2023-05-28,Beauty & Health,Gold,3.0,17.8
+CUST-1167,55.0,Male,New York,High,2024-11-15,Electronics,Bronze,3.0,18.6
+CUST-1963,24.0,other,Los Angeles,Medium,2023-08-29,Beauty & Health,Bronze,3.0,9.0
+CUST-1325,27.0,Male,Denver,Very High,2024-03-09,Beauty & Health,Silver,5.0,4.1
+CUST-1284,51.0,Other,Houston,Very High,2022-05-18,Electronics,Silver,1.0,13.3
+CUST-1527,56.0,Female,Los Angeles,Low,2023-12-30,Beauty & Health,Bronze,5.0,5.0
+CUST-1847,41.0,other,Los Angeles,Low,2024-02-29,Fashion,Bronze,3.0,0.6
+CUST-1182,29.0,Other,Houston,,2024-01-29,Home & Living,Platinum,4.0,2.6
+CUST-2120,43.0,Other,Chicago,Medium,2022-06-10,Sports & Outdoors,Gold,5.0,1.5
+CUST-1079,30.0,female,Seattle,High,2023-12-13,Electronics,Bronze,4.0,6.8
+CUST-2074,18.0,Female,New York,High,2024-01-11,Sports & Outdoors,Gold,5.0,4.9
+CUST-1383,46.0,Other,Chicago,Medium,2024-06-22,Beauty & Health,Silver,4.0,6.2
+CUST-2194,31.0,Other,Phoenix,Medium,2023-02-17,Fashion,Bronze,4.0,7.9
+CUST-1825,40.0,Female,Seattle,High,2022-12-17,Fashion,Bronze,5.0,2.2
+CUST-2180,33.0,Other,Seattle,Low,2022-06-29,Home & Living,Silver,4.0,11.7
+CUST-1428,50.0,Other,New York,Medium,2023-06-04,Sports & Outdoors,Silver,,2.7
+CUST-1096,44.0,Other,New York,Low,2023-01-11,Home & Living,Silver,3.0,7.9
+CUST-2158,23.0,Female,Seattle,Very High,2022-04-21,Beauty & Health,Bronze,2.0,4.4
+CUST-1350,25.0,other,Phoenix,Medium,2023-08-02,Fashion,Silver,3.0,4.4
+CUST-1921,18.0,Female,Los Angeles,High,2023-05-24,Home & Living,Silver,3.0,6.6
+CUST-1634,29.0,Male,Houston,High,2022-04-24,Beauty & Health,Gold,4.0,5.5
+CUST-1998,33.0,Other,Los Angeles,Low,2023-06-04,Fashion,Bronze,5.0,4.3
+CUST-1682,24.0,Female,Phoenix,Very High,2022-12-13,Sports & Outdoors,Platinum,5.0,9.8
+CUST-2053,42.0,Female,Los Angeles,Low,2024-04-28,Sports & Outdoors,Silver,3.0,6.3
+CUST-1601,29.0,Other,New York,Low,2024-06-24,Home & Living,Gold,4.0,2.3
+CUST-2020,37.0,Other,Los Angeles,Very High,2024-02-14,Sports & Outdoors,Silver,3.0,3.9
+CUST-1702,44.0,Female,Denver,Low,2023-07-01,Home & Living,Bronze,4.0,17.1
+CUST-1757,23.0,Female,Chicago,Medium,2024-05-15,Sports & Outdoors,Silver,4.0,12.2
+CUST-1171,58.0,Male,Austin,Low,2022-08-14,Electronics,Bronze,5.0,10.3
+CUST-1528,22.0,Male,Austin,High,2023-07-28,Electronics,Gold,4.0,19.1
+CUST-1384,31.0,Other,Chicago,Medium,2022-09-16,Home & Living,Bronze,3.0,8.6
+CUST-1807,39.0,Male,Denver,Low,2024-01-11,Electronics,Bronze,4.0,15.5
+CUST-1638,27.0,Male,Seattle,Very High,2023-10-07,Home & Living,Silver,2.0,3.6
+CUST-2057,19.0,Female,Los Angeles,Medium,2023-06-29,Beauty & Health,Silver,5.0,0.9
+CUST-1823,,Male,Chicago,High,2024-06-28,Beauty & Health,Gold,4.0,9.6
+CUST-1692,64.0,female,Seattle,Medium,2022-04-24,Beauty & Health,Bronze,5.0,9.9
+CUST-1092,39.0,Other,Houston,Medium,2024-09-27,Electronics,Bronze,5.0,7.2
+CUST-1973,28.0,Male,Los Angeles,Medium,2023-03-12,Beauty & Health,Silver,4.0,11.6
+CUST-1834,29.0,Male,New York,Low,2023-03-20,Electronics,Gold,,10.7
+CUST-1826,39.0,Male,New York,Very High,2023-06-18,Home & Living,Silver,2.0,2.7
+CUST-1277,25.0,Other,New York,Low,2023-07-10,Fashion,Gold,3.0,8.4
+CUST-1605,39.0,Male,New York,Medium,2023-03-07,Electronics,Silver,4.0,2.6
+CUST-1493,41.0,F,Seattle,Very High,2023-04-09,Sports & Outdoors,Gold,5.0,7.7
+CUST-1582,21.0,Female,Houston,Very High,2022-01-12,Sports & Outdoors,Bronze,5.0,9.9
+CUST-2054,31.0,Female,Phoenix,Medium,2022-02-13,Electronics,Bronze,4.0,4.6
+CUST-1708,56.0,Female,Denver,Medium,2022-02-18,Home & Living,Gold,4.0,10.4
+CUST-1201,33.0,M,Denver,Low,2023-07-22,Beauty & Health,Bronze,5.0,6.2
+CUST-2143,50.0,female,Austin,Very High,2024-06-09,Beauty & Health,Bronze,5.0,1.6
+CUST-1554,20.0,Male,Austin,Very High,2023-09-15,Electronics,Gold,5.0,2.0
+CUST-1071,18.0,Female,Los Angeles,Very High,2022-06-14,Fashion,Bronze,3.0,14.5
+CUST-1994,38.0,Male,Seattle,High,2022-05-14,Fashion,Bronze,4.0,11.9
+CUST-1579,28.0,Female,Denver,High,2024-11-20,Electronics,Silver,3.0,7.3
+CUST-1044,24.0,Male,Houston,Medium,2023-10-01,Electronics,Bronze,2.0,11.0
+CUST-1293,37.0,Other,Seattle,Low,2024-10-08,Beauty & Health,Silver,4.0,10.9
+CUST-1732,26.0,Male,Phoenix,Medium,2023-04-30,Electronics,Silver,3.0,4.1
+CUST-1200,18.0,O,Denver,Low,2023-01-19,Sports & Outdoors,Bronze,4.0,14.6
+CUST-1943,25.0,Other,Seattle,High,2023-07-19,Home & Living,Silver,2.0,0.6
+CUST-1550,41.0,Male,Chicago,Very High,2022-01-05,Electronics,Bronze,4.0,3.2
+CUST-1928,34.0,male,New York,Medium,2022-08-17,Beauty & Health,Gold,5.0,2.3
+CUST-1427,65.0,Other,Chicago,Medium,2024-04-25,Electronics,Bronze,5.0,6.3
+CUST-1297,18.0,F,Chicago,Low,2023-03-02,Home & Living,Bronze,3.0,5.8
+CUST-1144,61.0,Male,Denver,Medium,2024-04-07,Beauty & Health,Silver,3.0,19.2
+CUST-1676,28.0,Other,Houston,Medium,2024-06-09,Electronics,Silver,5.0,12.2
+CUST-1441,36.0,Female,New York,,2023-07-27,Electronics,Bronze,2.0,0.9
+CUST-1752,21.0,Female,Phoenix,,2023-11-13,Fashion,Silver,4.0,3.3
+CUST-1678,43.0,Other,Phoenix,Low,2024-10-25,Beauty & Health,Platinum,4.0,6.8
+CUST-1134,49.0,Female,New York,Medium,2024-08-28,Electronics,Silver,5.0,4.8
+CUST-1330,66.0,Male,Los Angeles,Medium,2024-06-11,Beauty & Health,Silver,5.0,3.8
+CUST-2061,,Female,Houston,Low,2022-04-30,Home & Living,Bronze,5.0,5.5
+CUST-1822,39.0,Male,Los Angeles,Low,2022-12-12,Electronics,Bronze,3.0,11.9
+CUST-1843,40.0,Female,Seattle,High,2023-12-09,Fashion,Platinum,4.0,7.7
+CUST-2148,20.0,Female,Austin,Medium,2024-09-15,Electronics,Silver,3.0,10.5
+CUST-1052,27.0,Male,Phoenix,High,2023-04-19,Beauty & Health,Silver,4.0,3.8
+CUST-1645,51.0,Female,Seattle,Medium,2023-06-30,Sports & Outdoors,Gold,3.0,4.3
+CUST-1045,,Other,Chicago,Low,2023-06-06,Beauty & Health,Gold,3.0,1.3
+CUST-1378,32.0,Other,Austin,High,2024-11-28,Fashion,Bronze,2.0,5.9
+CUST-2060,33.0,Other,Seattle,High,2024-02-12,Home & Living,Gold,4.0,3.3
+CUST-2151,30.0,Female,Houston,Very High,2022-03-12,Home & Living,Silver,5.0,12.5
+CUST-1316,34.0,Other,Chicago,Medium,2024-08-31,Home & Living,Bronze,3.0,13.3
+CUST-1786,31.0,Male,Chicago,Medium,2022-08-26,Beauty & Health,Bronze,4.0,9.4
+CUST-1853,25.0,Female,Seattle,Medium,2023-03-01,Electronics,Silver,4.0,3.7
+CUST-1628,18.0,Male,Los Angeles,Medium,2024-10-12,Sports & Outdoors,Bronze,3.0,4.2
+CUST-1244,32.0,Male,Denver,High,2024-11-29,Beauty & Health,Bronze,5.0,8.8
+CUST-2118,18.0,Other,Denver,High,2022-08-24,Beauty & Health,Gold,2.0,5.2
+CUST-2114,26.0,Male,Austin,Medium,2022-10-10,Electronics,Platinum,5.0,1.7
+CUST-1667,52.0,Other,New York,High,2022-08-04,Beauty & Health,Silver,4.0,1.0
+CUST-1412,26.0,Male,Phoenix,High,2022-10-31,Beauty & Health,Bronze,3.0,12.4
+CUST-2198,44.0,Male,Seattle,Low,2022-08-27,Sports & Outdoors,Bronze,3.0,2.0
+CUST-2141,28.0,Other,Los Angeles,Low,2023-10-15,Beauty & Health,Silver,2.0,10.5
+CUST-1646,39.0,Female,Houston,Medium,2022-12-04,Sports & Outdoors,Silver,3.0,5.9
+CUST-1505,41.0,Female,Los Angeles,Medium,2024-05-19,Sports & Outdoors,Bronze,5.0,7.7
+CUST-1675,26.0,Female,Seattle,High,2023-05-29,Home & Living,Bronze,4.0,2.4
+CUST-1851,37.0,male,Phoenix,Low,2023-09-21,Sports & Outdoors,Bronze,3.0,4.0
+CUST-1194,38.0,Female,Los Angeles,High,2022-06-07,Home & Living,Bronze,5.0,4.9
+CUST-1223,36.0,Female,Austin,Medium,2023-07-18,Home & Living,Silver,4.0,4.4
+CUST-2027,32.0,Female,Chicago,Low,2024-09-28,Home & Living,Bronze,3.0,5.2
+CUST-1221,38.0,Female,Denver,High,2023-01-07,Electronics,Silver,5.0,8.9
+CUST-1272,19.0,Male,Austin,High,2024-03-31,Sports & Outdoors,Silver,5.0,8.0
+CUST-1711,,Female,New York,Medium,2023-04-22,Beauty & Health,Silver,3.0,11.4
+CUST-1014,44.0,Other,Denver,High,2022-10-13,Fashion,Silver,5.0,12.2
+CUST-1432,24.0,Male,Denver,Medium,2023-03-11,Fashion,Bronze,5.0,5.7
+CUST-1745,36.0,Female,New York,Low,2024-03-24,Sports & Outdoors,Gold,3.0,3.7
+CUST-2017,30.0,Male,Seattle,Very High,2022-07-20,Home & Living,Bronze,4.0,8.1
+CUST-1744,50.0,other,New York,High,2024-01-07,Beauty & Health,Bronze,4.0,6.3
+CUST-1866,33.0,Female,Chicago,Medium,2023-07-09,Home & Living,Platinum,3.0,15.7
+CUST-2138,44.0,Other,Los Angeles,Medium,2024-12-29,Home & Living,Bronze,3.0,3.4
+CUST-1212,44.0,Male,Phoenix,Medium,2024-08-21,Sports & Outdoors,Silver,3.0,10.3
+CUST-1673,47.0,Other,Houston,Medium,2022-05-06,Beauty & Health,Bronze,3.0,6.7
+CUST-1018,34.0,Female,Seattle,High,2023-05-16,Sports & Outdoors,Gold,4.0,8.9
+CUST-1809,38.0,Male,New York,Low,2023-01-18,Sports & Outdoors,Bronze,4.0,25.1
+CUST-1154,36.0,Male,Houston,,2024-11-20,Beauty & Health,Bronze,4.0,12.7
+CUST-1743,57.0,Female,Houston,Medium,2024-05-28,Electronics,Bronze,4.0,12.3
+CUST-2106,22.0,Other,Chicago,High,2023-02-16,Beauty & Health,Bronze,4.0,3.4
+CUST-2134,26.0,Other,Los Angeles,Low,2023-02-04,Sports & Outdoors,Gold,5.0,3.6
+CUST-1015,23.0,Male,Austin,,2022-05-19,Home & Living,Gold,2.0,3.7
+CUST-1855,35.0,Other,Seattle,High,2024-11-16,Fashion,Gold,3.0,6.8
+CUST-1074,33.0,Other,Phoenix,Medium,2022-01-01,Sports & Outdoors,Bronze,5.0,4.0
+CUST-1882,34.0,other,Phoenix,High,2023-08-05,Fashion,Bronze,3.0,0.5
+CUST-2192,47.0,Other,New York,Medium,2023-08-26,Beauty & Health,Bronze,3.0,9.6
+CUST-2117,46.0,Female,Phoenix,Low,2022-05-27,Sports & Outdoors,Gold,5.0,4.4
+CUST-1444,18.0,Other,Houston,High,2023-05-29,Fashion,Silver,4.0,3.9
+CUST-1878,54.0,Other,Houston,Low,2024-01-26,Home & Living,Silver,5.0,2.4
+CUST-2008,41.0,Female,Phoenix,Low,2022-05-16,Fashion,Bronze,4.0,4.4
+CUST-1709,46.0,Female,Chicago,Medium,2024-10-03,Sports & Outdoors,Gold,4.0,7.9
+CUST-2172,44.0,Male,Houston,Medium,2022-08-11,Sports & Outdoors,Platinum,2.0,5.8
+CUST-1094,39.0,Other,Los Angeles,High,2022-11-25,Beauty & Health,Platinum,4.0,3.2
+CUST-1077,37.0,Female,Phoenix,Low,2024-06-22,Fashion,Bronze,3.0,8.8
+CUST-1345,39.0,Male,Houston,Medium,2022-09-11,Sports & Outdoors,Silver,5.0,5.6
+CUST-2089,42.0,Female,Chicago,High,2023-01-04,Beauty & Health,Bronze,3.0,2.6
+CUST-1705,65.0,Male,Denver,Low,2024-04-05,Home & Living,Silver,4.0,26.0
+CUST-2032,29.0,Female,Denver,Medium,2023-12-25,Fashion,Silver,4.0,16.3
+CUST-1890,24.0,female,Phoenix,Low,2023-08-19,Electronics,Gold,4.0,6.7
+CUST-1969,36.0,Other,Denver,Low,2024-03-24,Beauty & Health,Silver,5.0,11.6
+CUST-1224,53.0,M,Seattle,Medium,2022-08-27,Home & Living,Silver,3.0,11.2
+CUST-2177,53.0,Male,Los Angeles,High,2022-09-20,Electronics,Platinum,4.0,3.5
+CUST-1216,34.0,Female,Seattle,High,2023-08-17,Fashion,Silver,5.0,19.3
+CUST-1522,44.0,Female,Seattle,Very High,2022-07-27,Home & Living,Bronze,4.0,3.1
+CUST-1941,,Male,New York,Very High,2023-07-31,Electronics,Bronze,5.0,3.8
+CUST-1895,18.0,Female,Phoenix,Medium,2023-11-04,Sports & Outdoors,Gold,4.0,9.7
+CUST-1397,25.0,Female,Los Angeles,High,2022-12-13,Sports & Outdoors,Silver,3.0,11.7
+CUST-1388,33.0,Female,Seattle,Low,2023-02-09,Sports & Outdoors,Platinum,3.0,31.4
+CUST-1481,37.0,Female,New York,High,2023-06-16,Electronics,Silver,4.0,8.8
+CUST-1151,43.0,Female,Denver,Medium,2022-06-16,Electronics,Gold,2.0,2.7
+CUST-2199,27.0,Male,Denver,High,2022-07-16,Sports & Outdoors,Platinum,2.0,15.3
+CUST-1512,33.0,Female,Los Angeles,Medium,2024-07-15,Home & Living,Gold,4.0,8.6
+CUST-1785,25.0,Female,Seattle,,2024-10-05,Electronics,Silver,3.0,2.7
+CUST-2039,,Other,New York,Medium,2022-05-29,Fashion,Gold,4.0,4.8
+CUST-2179,28.0,Other,Los Angeles,Medium,2022-02-24,Electronics,Silver,5.0,6.0
+CUST-1298,54.0,Female,Seattle,High,2022-04-19,Fashion,Platinum,3.0,9.3
+CUST-1153,37.0,M,New York,Medium,2023-11-28,Fashion,Gold,4.0,31.3
+CUST-1840,23.0,Male,Austin,High,2022-01-02,Fashion,Silver,4.0,4.1
+CUST-2084,38.0,Male,Austin,Low,2023-12-22,Electronics,Gold,2.0,3.0
+CUST-1303,60.0,Other,Houston,Medium,2024-03-03,Home & Living,Gold,5.0,0.5
+CUST-1351,18.0,Female,Seattle,Medium,2023-02-06,Sports & Outdoors,Bronze,4.0,10.7
+CUST-1495,62.0,Female,Seattle,Medium,2024-01-30,Beauty & Health,Silver,5.0,6.7
+CUST-2069,28.0,Female,New York,High,2023-01-18,Home & Living,Silver,3.0,4.4
+CUST-1292,44.0,Male,Chicago,Medium,2022-08-05,Electronics,Silver,5.0,4.2
+CUST-2073,31.0,Other,Los Angeles,Medium,2024-06-08,Home & Living,Silver,3.0,11.8
+CUST-1747,41.0,Female,Houston,High,2023-02-24,Beauty & Health,Bronze,5.0,9.6
+CUST-1170,23.0,O,Houston,Medium,2022-10-14,Home & Living,Silver,3.0,5.0
+CUST-1416,35.0,Female,Phoenix,Medium,2024-06-26,Beauty & Health,Bronze,5.0,3.2
+CUST-1251,50.0,Male,Houston,,2023-11-18,Beauty & Health,Bronze,4.0,1.9
+CUST-2091,,Other,Austin,Medium,2023-09-29,Electronics,Bronze,4.0,3.7
+CUST-1609,34.0,Male,Denver,Low,2024-04-22,Beauty & Health,Silver,3.0,10.2
+CUST-1046,29.0,Other,Seattle,Medium,2024-07-27,Sports & Outdoors,Silver,3.0,13.4
+CUST-1410,18.0,Female,Austin,Low,2023-02-09,Home & Living,Gold,4.0,10.8
+CUST-1839,18.0,Female,New York,Very High,2023-02-06,Beauty & Health,Bronze,4.0,11.8
+CUST-1002,43.0,Male,Phoenix,High,2024-09-21,Fashion,Bronze,4.0,5.2
+CUST-1917,37.0,Male,Los Angeles,High,2022-11-28,Sports & Outdoors,Bronze,2.0,4.9
+CUST-1113,55.0,Male,Houston,Medium,2023-10-20,Sports & Outdoors,Silver,4.0,1.6
+CUST-1399,37.0,Other,Seattle,Low,2023-06-20,Electronics,Silver,2.0,18.9
+CUST-1603,18.0,Other,New York,Medium,2023-10-22,Electronics,Bronze,3.0,11.3
+CUST-1278,34.0,Other,Los Angeles,Medium,2023-01-27,Fashion,Silver,4.0,2.4
+CUST-1639,28.0,Male,Houston,Very High,2022-12-02,Fashion,Bronze,4.0,7.6
+CUST-1497,43.0,F,Denver,,2024-06-16,Sports & Outdoors,Platinum,2.0,5.2
+CUST-1591,42.0,Male,Los Angeles,Medium,2023-04-15,Electronics,Gold,4.0,10.1
+CUST-1929,45.0,Other,New York,Medium,2022-03-20,Home & Living,Silver,4.0,9.6
+CUST-1381,41.0,Female,Austin,High,2024-07-23,Beauty & Health,Silver,4.0,2.6
+CUST-1680,18.0,Male,Austin,Medium,2024-01-25,Sports & Outdoors,Gold,5.0,4.9
+CUST-1739,52.0,Other,Denver,Low,2023-10-10,Fashion,Silver,5.0,2.2
+CUST-2041,30.0,Female,Los Angeles,Medium,2023-04-01,Fashion,Bronze,4.0,4.7
+CUST-1438,29.0,Male,Houston,Medium,2022-11-07,Electronics,Bronze,,8.8
+CUST-2066,50.0,Male,Phoenix,Medium,2023-06-25,Home & Living,Silver,4.0,3.1
+CUST-1972,36.0,Male,Phoenix,High,2023-08-13,Fashion,Silver,3.0,5.0
+CUST-1647,49.0,Female,Chicago,Medium,2024-07-31,Electronics,Silver,4.0,8.3
+CUST-2112,18.0,Male,New York,High,2022-01-18,Electronics,Silver,3.0,7.4
+CUST-2003,41.0,other,Los Angeles,Very High,2023-11-14,Home & Living,Bronze,3.0,9.2
+CUST-2170,44.0,Male,Phoenix,Medium,2022-08-08,Fashion,Bronze,5.0,10.0
+CUST-1311,30.0,Other,Austin,Low,2023-09-04,Home & Living,Platinum,1.0,7.1
+CUST-1391,45.0,Female,Austin,Low,2023-09-04,Electronics,Silver,4.0,17.7
+CUST-1542,40.0,female,Los Angeles,Medium,2022-04-02,Sports & Outdoors,Bronze,5.0,4.2
+CUST-1406,22.0,male,Houston,Low,2023-09-28,Beauty & Health,Bronze,4.0,6.5
+CUST-1698,23.0,other,Seattle,Medium,2024-10-17,Fashion,Bronze,2.0,3.9
+CUST-1103,62.0,Male,Houston,Medium,2022-04-25,Fashion,Silver,1.0,6.5
+CUST-2087,33.0,Male,Chicago,Medium,2023-03-13,Beauty & Health,Bronze,3.0,11.5
+CUST-1239,48.0,Male,Seattle,Medium,2022-04-03,Electronics,Silver,4.0,5.7
+CUST-1026,44.0,Female,Phoenix,Medium,2023-05-08,Home & Living,Bronze,4.0,6.6
+CUST-1968,26.0,Other,Houston,Low,2023-03-02,Beauty & Health,Gold,3.0,10.0
+CUST-1978,35.0,Other,Phoenix,Medium,2023-08-24,Electronics,Bronze,1.0,3.6
+CUST-2130,34.0,male,Los Angeles,Very High,2023-05-16,Electronics,Gold,5.0,4.4
+CUST-1560,42.0,Male,Chicago,Low,2023-01-10,Beauty & Health,Gold,3.0,2.5
+CUST-2139,48.0,Other,Seattle,Medium,2023-01-30,Fashion,Silver,4.0,5.8
+CUST-1431,18.0,Other,Austin,Medium,2023-09-19,Sports & Outdoors,Bronze,4.0,6.1
+CUST-1772,26.0,Other,Austin,Medium,2023-01-11,Sports & Outdoors,Bronze,4.0,6.6
+CUST-1159,42.0,Other,Los Angeles,Very High,2024-09-12,Electronics,Gold,3.0,7.3
+CUST-1723,18.0,Other,Los Angeles,Medium,2024-08-20,Home & Living,Bronze,4.0,8.0
+CUST-1021,55.0,Male,Seattle,Medium,2023-11-16,Fashion,Bronze,3.0,2.7
+CUST-1940,45.0,Female,Houston,Medium,2023-09-03,Home & Living,Bronze,4.0,7.1
+CUST-1906,18.0,Other,Austin,High,2024-03-19,Fashion,Silver,3.0,6.7
+CUST-1290,26.0,Male,Los Angeles,Low,2023-02-26,Fashion,Bronze,3.0,9.0
+CUST-1588,47.0,Female,Denver,Medium,2024-07-09,Beauty & Health,Gold,5.0,2.4
+CUST-1331,36.0,other,Austin,Medium,2022-06-25,Home & Living,Bronze,4.0,7.8
+CUST-1989,58.0,Female,Houston,Medium,2024-05-22,Sports & Outdoors,Silver,3.0,4.8
+CUST-1719,47.0,Female,Chicago,Low,2024-05-13,Beauty & Health,Platinum,4.0,10.6
+CUST-1538,27.0,other,Seattle,,2023-11-09,Electronics,Bronze,5.0,7.0
+CUST-1377,55.0,other,Seattle,High,2023-03-16,Electronics,Bronze,4.0,17.6
+CUST-1636,25.0,Female,New York,High,2024-01-17,Home & Living,Bronze,2.0,6.2
+CUST-2013,25.0,Female,Los Angeles,Low,2022-10-29,Home & Living,Platinum,5.0,15.7
+CUST-1503,34.0,Other,Chicago,Low,2024-04-26,Fashion,Bronze,4.0,7.3
+CUST-2044,40.0,Male,Los Angeles,Medium,2023-12-25,Sports & Outdoors,Bronze,5.0,7.7
+CUST-1754,46.0,Other,Austin,Medium,2024-04-29,Electronics,Gold,3.0,1.8
+CUST-1842,53.0,Male,New York,Medium,2023-01-18,Home & Living,Silver,,5.0
+CUST-1454,22.0,Other,New York,Medium,2024-11-17,Beauty & Health,Bronze,5.0,6.2
+CUST-2131,38.0,Other,Houston,High,2024-04-29,Sports & Outdoors,Bronze,5.0,3.7
+CUST-1120,46.0,Other,Houston,High,2024-12-11,Home & Living,Bronze,3.0,5.9
+CUST-1607,18.0,Female,New York,High,2022-11-27,Electronics,Bronze,2.0,11.1
+CUST-2121,40.0,Other,Houston,Medium,2023-09-24,Electronics,Gold,2.0,16.4
+CUST-1589,41.0,Male,New York,Low,2022-04-02,Sports & Outdoors,Bronze,5.0,8.9
+CUST-1252,73.0,Other,Chicago,Medium,2023-12-18,Home & Living,Gold,4.0,3.8
+CUST-1931,37.0,Male,Houston,Medium,2022-12-18,Fashion,Silver,4.0,12.1
+CUST-1765,26.0,Male,Austin,High,2022-09-27,Beauty & Health,Bronze,4.0,6.3
+CUST-1580,52.0,Female,Seattle,Low,2023-05-06,Sports & Outdoors,Bronze,3.0,8.4
+CUST-1648,46.0,Other,Houston,High,2022-10-13,Beauty & Health,Bronze,4.0,7.3
+CUST-1595,34.0,female,Los Angeles,Very High,2024-12-03,Fashion,Bronze,3.0,7.3
+CUST-2156,38.0,Male,New York,Very High,2022-10-14,Sports & Outdoors,Silver,4.0,3.8
+CUST-1445,29.0,Other,Phoenix,Medium,2024-03-28,Sports & Outdoors,Silver,5.0,20.5
+CUST-1403,21.0,Other,Chicago,Medium,2024-03-24,Fashion,Platinum,3.0,3.1
+CUST-1581,41.0,Female,Austin,Medium,2022-02-25,Beauty & Health,Bronze,5.0,26.9
+CUST-1246,46.0,Other,Austin,Medium,2024-04-08,Home & Living,Bronze,5.0,15.4
+CUST-1146,18.0,Other,Phoenix,Medium,2024-10-24,Sports & Outdoors,Bronze,4.0,2.1
+CUST-2127,32.0,Other,Phoenix,Medium,2022-10-14,Electronics,Bronze,4.0,7.6
+CUST-1872,59.0,Other,Phoenix,Medium,2022-07-26,Fashion,Gold,3.0,14.1
+CUST-1985,18.0,Male,Denver,Medium,2024-12-15,Home & Living,Gold,4.0,4.2
+CUST-1612,40.0,Other,Chicago,Medium,2023-12-01,Fashion,Silver,2.0,14.9
+CUST-1479,46.0,Female,Phoenix,Very High,2024-05-10,Electronics,Silver,,8.0
+CUST-1222,38.0,Other,Seattle,Low,2022-07-14,Beauty & Health,Bronze,4.0,4.1
+CUST-1312,38.0,Female,Houston,Medium,2024-08-24,Electronics,Silver,4.0,3.1
+CUST-2100,25.0,male,Houston,Low,2024-10-11,Beauty & Health,Silver,4.0,4.2
+CUST-1672,55.0,Female,Los Angeles,Medium,2023-12-24,Sports & Outdoors,Silver,5.0,11.1
+CUST-1178,28.0,Other,Austin,Medium,2023-04-14,Sports & Outdoors,Bronze,4.0,9.5
+CUST-1685,32.0,Other,Austin,Medium,2022-04-06,Electronics,Bronze,3.0,6.4
+CUST-1811,49.0,Other,Chicago,Medium,2022-12-27,Sports & Outdoors,Silver,2.0,9.4
+CUST-1036,34.0,male,Houston,Medium,2022-08-04,Fashion,Silver,3.0,3.2
+CUST-1547,19.0,Male,Phoenix,Very High,2024-10-24,Beauty & Health,Silver,1.0,6.0
+CUST-2026,35.0,Other,Seattle,Very High,2023-01-25,Sports & Outdoors,Silver,5.0,9.5
+CUST-1635,33.0,Female,Los Angeles,High,2022-11-15,Fashion,Bronze,5.0,3.1
+CUST-1359,31.0,Female,Phoenix,Medium,2022-11-03,Electronics,Gold,4.0,10.5
+CUST-1102,50.0,Other,Denver,Very High,2022-09-09,Sports & Outdoors,Bronze,4.0,3.8
+CUST-1663,18.0,Other,Los Angeles,Medium,2022-10-31,Beauty & Health,Bronze,4.0,10.4
+CUST-1892,34.0,Other,Chicago,Medium,2024-09-26,Electronics,Silver,5.0,8.5
+CUST-1208,18.0,Female,Los Angeles,,2023-11-10,Sports & Outdoors,Bronze,5.0,12.9
+CUST-1012,37.0,Other,Los Angeles,High,2022-03-07,Electronics,Silver,4.0,4.6
+CUST-1457,38.0,F,Phoenix,Low,2022-06-19,Home & Living,Silver,5.0,1.9
+CUST-1915,,Other,Austin,Low,2022-10-13,Electronics,Silver,3.0,19.8
+CUST-1164,28.0,Male,Austin,High,2024-03-22,Fashion,Silver,4.0,0.8
+CUST-1885,28.0,Other,Denver,Medium,2023-08-14,Sports & Outdoors,Bronze,4.0,5.7
+CUST-2107,36.0,Female,Denver,Very High,2022-04-17,Fashion,Bronze,5.0,0.7
+CUST-1360,29.0,Female,Phoenix,Medium,2022-10-02,Electronics,Silver,2.0,10.0
+CUST-1257,44.0,Female,Chicago,Low,2022-10-19,Beauty & Health,Silver,4.0,5.0
+CUST-1193,27.0,Other,Houston,Medium,2022-12-28,Beauty & Health,Bronze,3.0,4.9
+CUST-1734,29.0,Other,Houston,Medium,2022-04-30,Sports & Outdoors,Gold,1.0,13.5
+CUST-1209,36.0,Male,Austin,Low,2024-08-19,Beauty & Health,Bronze,3.0,10.9
+CUST-2146,21.0,M,New York,Medium,2024-10-07,Sports & Outdoors,Bronze,4.0,5.6
+CUST-2169,42.0,Other,Austin,Medium,2022-03-04,Sports & Outdoors,Silver,2.0,1.9
+CUST-1111,27.0,Other,Chicago,High,2022-08-14,Electronics,Silver,4.0,9.7
+CUST-1098,18.0,Other,Houston,High,2022-09-24,Electronics,Gold,3.0,4.6
+CUST-1922,53.0,Female,Los Angeles,Medium,2022-06-19,Fashion,Gold,4.0,1.5
+CUST-1245,43.0,Male,Los Angeles,Low,2022-05-15,Fashion,Bronze,3.0,24.7
+CUST-1023,26.0,Other,Houston,High,2022-10-31,Electronics,Gold,4.0,7.7
+CUST-1555,41.0,Female,Phoenix,Very High,2024-05-26,Home & Living,Silver,3.0,3.0
+CUST-1349,55.0,Other,Los Angeles,Medium,2023-05-06,Fashion,Silver,4.0,2.1
+CUST-2153,28.0,Other,Chicago,Very High,2023-12-28,Fashion,Bronze,4.0,7.9
+CUST-1592,33.0,Male,Phoenix,Very High,2024-03-24,Home & Living,Silver,2.0,0.7
+CUST-1089,20.0,other,Austin,High,2022-06-18,Sports & Outdoors,Gold,5.0,6.5
+CUST-1593,54.0,Female,Austin,Medium,2024-04-08,Beauty & Health,Bronze,5.0,10.4
+CUST-1706,38.0,Other,Chicago,Medium,2024-08-09,Sports & Outdoors,Platinum,3.0,5.8
+CUST-1658,37.0,Female,Austin,Medium,2022-04-05,Home & Living,Gold,3.0,9.1
+CUST-1567,46.0,Other,Denver,Low,2023-11-11,Fashion,Platinum,4.0,4.0
+CUST-1233,44.0,male,Seattle,High,2022-08-24,Home & Living,Silver,4.0,7.4
+CUST-2051,53.0,Other,Phoenix,Very High,2023-08-13,Beauty & Health,Bronze,2.0,8.3
+CUST-1470,39.0,Female,Los Angeles,High,2024-04-07,Electronics,Platinum,3.0,33.3
+CUST-1664,44.0,Male,Los Angeles,High,2022-10-27,Fashion,Bronze,5.0,9.7
+CUST-2006,18.0,Male,Austin,High,2022-09-29,Sports & Outdoors,Bronze,4.0,5.4
+CUST-1488,44.0,Female,Phoenix,Very High,2023-12-11,Beauty & Health,Platinum,5.0,10.2
+CUST-2011,33.0,Other,Seattle,High,2022-05-27,Beauty & Health,Silver,4.0,10.3
+CUST-1236,30.0,Female,Seattle,Low,2024-06-09,Sports & Outdoors,Platinum,5.0,10.1
+CUST-2016,27.0,Other,Phoenix,Low,2023-05-30,Fashion,Bronze,4.0,16.3
+CUST-1097,39.0,Female,Austin,High,2022-03-08,Electronics,Silver,4.0,6.2
+CUST-1191,24.0,Female,Seattle,,2023-12-30,Beauty & Health,Bronze,3.0,20.5
+CUST-1011,35.0,Other,Phoenix,Medium,2023-01-07,Sports & Outdoors,Silver,3.0,9.8
+CUST-1967,54.0,Other,Seattle,Medium,2024-03-11,Sports & Outdoors,Bronze,4.0,2.3
+CUST-1145,50.0,Other,New York,Medium,2023-02-27,Sports & Outdoors,Bronze,5.0,6.4
+CUST-2077,40.0,Male,Los Angeles,Medium,2024-06-06,Beauty & Health,Bronze,2.0,6.5
+CUST-1559,31.0,Male,Houston,Medium,2024-07-18,Beauty & Health,Gold,5.0,5.8
+CUST-1271,29.0,Other,Chicago,Medium,2022-08-26,Sports & Outdoors,Gold,3.0,5.2
+CUST-1820,44.0,other,Denver,High,2024-04-15,Fashion,Bronze,5.0,12.4
+CUST-1659,44.0,female,Los Angeles,Medium,2022-09-12,Beauty & Health,Silver,1.0,11.4
+CUST-2086,37.0,Female,New York,High,2024-11-14,Beauty & Health,Bronze,3.0,6.8
+CUST-1485,61.0,Male,Houston,Very High,2024-03-19,Home & Living,Gold,5.0,2.3
+CUST-1080,61.0,Other,Denver,Medium,2024-02-13,Electronics,Gold,3.0,5.3
+CUST-1130,38.0,Other,Phoenix,Medium,2024-06-04,Electronics,Silver,4.0,8.9
+CUST-1812,46.0,Male,Los Angeles,Medium,2024-06-24,Fashion,Bronze,5.0,6.1
+CUST-1068,45.0,Other,Phoenix,Very High,2023-08-09,Home & Living,Bronze,2.0,17.8
+CUST-1650,29.0,Male,Phoenix,Medium,2022-05-19,Fashion,Silver,4.0,10.8
+CUST-2023,44.0,Female,Denver,Low,2022-12-20,Electronics,Platinum,5.0,5.4
+CUST-1610,43.0,Other,Austin,Low,2024-10-28,Sports & Outdoors,Bronze,4.0,5.5
+CUST-1814,27.0,Female,Los Angeles,High,2023-01-31,Sports & Outdoors,Silver,4.0,8.8
+CUST-1220,43.0,Female,Denver,Low,2024-05-31,Home & Living,Silver,5.0,12.4
+CUST-2187,51.0,Other,Chicago,Medium,2022-08-10,Sports & Outdoors,Silver,3.0,3.2
+CUST-1310,33.0,Male,Houston,Very High,2022-12-24,Electronics,Silver,4.0,3.5
+CUST-1816,35.0,Male,Phoenix,Medium,2023-09-16,Home & Living,Platinum,3.0,8.0
+CUST-1829,41.0,Female,Houston,Very High,2024-02-28,Home & Living,Bronze,3.0,14.2
+CUST-1961,47.0,Male,New York,High,2023-12-29,Home & Living,Gold,1.0,10.7
+CUST-1405,30.0,Female,New York,High,2022-10-11,Sports & Outdoors,Bronze,5.0,11.3
+CUST-1281,48.0,Female,Seattle,Very High,2022-03-02,Electronics,Bronze,4.0,15.3
+CUST-1254,34.0,Male,Seattle,High,2024-10-02,Home & Living,Bronze,4.0,4.5
+CUST-1053,23.0,Female,Los Angeles,High,2022-01-22,Electronics,Bronze,4.0,6.5
+CUST-1856,37.0,Female,Seattle,High,2024-01-03,Fashion,Silver,4.0,10.0
+CUST-1562,46.0,Female,Seattle,Medium,2023-08-10,Home & Living,Bronze,5.0,3.3
+CUST-1655,35.0,Other,Phoenix,Low,2022-05-29,Electronics,Gold,4.0,12.0
+CUST-1896,34.0,Other,Denver,High,2023-06-09,Electronics,Bronze,3.0,5.8
+CUST-1697,48.0,M,Houston,Medium,2023-10-14,Beauty & Health,Silver,3.0,5.3
+CUST-1590,36.0,Other,Los Angeles,Very High,2022-02-02,Sports & Outdoors,Silver,4.0,4.6
+CUST-1083,27.0,F,Austin,Medium,2023-10-04,Fashion,Bronze,5.0,3.1
+CUST-1704,35.0,Male,Los Angeles,Medium,2024-07-13,Beauty & Health,Bronze,4.0,3.3
+CUST-1218,18.0,Other,New York,Medium,2024-02-10,Home & Living,Bronze,4.0,8.1
+CUST-1983,38.0,Female,Denver,Medium,2023-02-23,Beauty & Health,Gold,5.0,1.8
+CUST-1306,25.0,Female,Phoenix,Low,2023-07-01,Fashion,Silver,2.0,5.6
+CUST-1006,18.0,Male,Seattle,Very High,2023-07-02,Electronics,Bronze,5.0,2.6
+CUST-1540,28.0,Female,Houston,High,2023-11-27,Home & Living,Silver,4.0,1.0
+CUST-1789,35.0,Female,Seattle,High,2023-12-05,Home & Living,Gold,4.0,9.7
+CUST-1712,43.0,Other,New York,Low,2024-01-19,Electronics,Gold,3.0,2.1
+CUST-1357,18.0,Other,Los Angeles,Low,2022-08-16,Electronics,Silver,3.0,3.4
+CUST-2119,51.0,Other,Los Angeles,Medium,2024-06-03,Sports & Outdoors,Gold,4.0,18.2
+CUST-1536,47.0,Other,Denver,High,2024-09-29,Fashion,Silver,1.0,3.8
+CUST-1466,46.0,Male,Los Angeles,Medium,2023-04-18,Beauty & Health,Gold,4.0,1.0
+CUST-1022,36.0,Male,Austin,Medium,2024-03-31,Home & Living,Bronze,5.0,4.8
+CUST-2171,18.0,Other,Houston,Medium,2022-06-09,Electronics,Bronze,4.0,12.2
+CUST-1798,31.0,Male,New York,,2022-08-31,Electronics,Silver,4.0,5.5
+CUST-1509,45.0,Female,Denver,Medium,2023-07-25,Home & Living,Silver,2.0,3.0
+CUST-1047,25.0,Other,Denver,Low,2023-09-11,Electronics,Silver,3.0,16.5
+CUST-1954,60.0,Other,New York,Medium,2023-05-24,Electronics,Silver,5.0,2.1
+CUST-1452,18.0,Female,Houston,High,2024-12-19,Electronics,Gold,4.0,5.5
+CUST-1227,24.0,Male,Houston,Medium,2023-08-29,Home & Living,Gold,3.0,10.6
+CUST-1358,30.0,Other,Houston,Medium,2024-04-22,Sports & Outdoors,Bronze,1.0,26.4
+CUST-1072,57.0,Female,New York,Low,2023-09-13,Beauty & Health,Silver,2.0,2.3
+CUST-1230,25.0,Female,Chicago,Medium,2022-03-14,Fashion,Silver,5.0,4.8
+CUST-2128,36.0,female,Austin,Low,2024-05-17,Sports & Outdoors,Bronze,4.0,4.2
+CUST-1263,18.0,M,Los Angeles,Medium,2024-08-30,Fashion,Bronze,5.0,2.7
+CUST-1948,18.0,Male,Los Angeles,High,2023-06-18,Fashion,Bronze,5.0,4.0
+CUST-1633,44.0,Female,Houston,Low,2022-07-22,Electronics,Bronze,5.0,11.7
+CUST-1198,23.0,Male,Seattle,Low,2022-06-23,Beauty & Health,Bronze,3.0,1.0
+CUST-1506,43.0,Other,Chicago,High,2024-07-28,Fashion,Platinum,5.0,9.8
+CUST-1710,39.0,male,Los Angeles,Low,2024-05-17,Sports & Outdoors,Platinum,3.0,7.5
+CUST-1341,40.0,Other,Denver,Low,2022-04-23,Beauty & Health,Bronze,3.0,5.9
+CUST-1852,39.0,Male,Seattle,Low,2024-01-13,Home & Living,Silver,5.0,6.9
+CUST-1004,24.0,Male,Seattle,,2023-01-28,Sports & Outdoors,Silver,1.0,11.7
+CUST-1541,34.0,Female,Phoenix,Low,2024-02-08,Fashion,Silver,4.0,6.1
+CUST-2176,48.0,Other,Denver,Medium,2024-03-23,Home & Living,Silver,2.0,7.6
+CUST-1395,27.0,Male,Phoenix,Medium,2022-09-04,Fashion,Silver,4.0,4.9
+CUST-1508,48.0,Other,Houston,High,2023-05-27,Home & Living,Silver,1.0,5.2
+CUST-1908,26.0,Other,New York,High,2023-02-23,Sports & Outdoors,Bronze,3.0,8.2
+CUST-1093,18.0,Male,Phoenix,Medium,2023-01-23,Fashion,Silver,4.0,2.4
+CUST-2196,19.0,Male,Chicago,High,2024-01-18,Home & Living,Bronze,2.0,14.5
+CUST-2022,23.0,Male,Chicago,High,2022-02-06,Beauty & Health,Gold,4.0,5.3
+CUST-2162,46.0,Female,Austin,Medium,2023-11-21,Fashion,Silver,1.0,2.6
+CUST-1215,32.0,Male,New York,Medium,2024-11-26,Sports & Outdoors,Platinum,5.0,4.0
+CUST-1742,27.0,Male,Chicago,Medium,2024-03-14,Beauty & Health,Silver,3.0,5.6
+CUST-1951,27.0,Male,Austin,Medium,2024-09-19,Fashion,Bronze,4.0,10.0
+CUST-1048,34.0,M,New York,Medium,2024-02-27,Beauty & Health,Bronze,4.0,10.1
+CUST-1379,22.0,Other,Denver,Very High,2024-12-17,Home & Living,Bronze,5.0,7.7
+CUST-1924,43.0,Other,Denver,High,2022-10-22,Fashion,Silver,4.0,8.6
+CUST-1500,34.0,Male,New York,Medium,2022-10-06,Beauty & Health,Silver,4.0,0.8
+CUST-2035,23.0,Other,Houston,Low,2024-05-22,Electronics,Bronze,4.0,6.6
+CUST-1543,29.0,Male,Seattle,,2023-05-15,Sports & Outdoors,Bronze,1.0,6.1
+CUST-1420,50.0,Other,Denver,High,2024-02-22,Beauty & Health,Bronze,4.0,14.0
+CUST-1499,59.0,Female,New York,High,2022-07-08,Fashion,Silver,3.0,9.5
+CUST-1893,26.0,F,Seattle,High,2024-09-23,Fashion,Gold,5.0,5.6
+CUST-1677,26.0,Female,Los Angeles,Medium,2022-10-28,Home & Living,Silver,2.0,5.5
+CUST-2012,41.0,Male,Seattle,Low,2024-03-23,Fashion,Bronze,2.0,5.1
+CUST-1204,47.0,Female,Chicago,Low,2024-11-21,Fashion,Bronze,4.0,6.2
+CUST-1761,37.0,Other,Austin,Medium,2022-07-23,Beauty & Health,Gold,3.0,2.9
+CUST-1274,41.0,Male,Austin,Very High,2023-12-05,Home & Living,Silver,5.0,7.3
+CUST-2165,37.0,Male,Seattle,High,2023-03-18,Sports & Outdoors,Bronze,4.0,2.5
+CUST-1363,32.0,Male,Houston,Medium,2022-08-16,Home & Living,Gold,5.0,8.4
+CUST-1513,34.0,Male,New York,Medium,2023-02-13,Fashion,Platinum,3.0,14.5
+CUST-1912,20.0,Male,Seattle,Medium,2022-09-13,Beauty & Health,Gold,2.0,13.3
+CUST-1616,29.0,Female,Los Angeles,Low,2023-01-13,Beauty & Health,Platinum,3.0,0.8
+CUST-1751,56.0,Other,Seattle,Medium,2023-10-24,Fashion,Bronze,2.0,4.2
+CUST-1437,35.0,Other,Denver,Very High,2024-02-16,Home & Living,Silver,4.0,7.9
+CUST-1907,35.0,Male,Austin,,2023-09-25,Electronics,Gold,3.0,3.7
+CUST-1520,42.0,Other,Denver,Low,2022-09-17,Electronics,Bronze,4.0,1.4
+CUST-1832,21.0,Male,New York,High,2023-03-04,Home & Living,Bronze,4.0,4.5
+CUST-2124,35.0,Female,Denver,Medium,2022-12-20,Sports & Outdoors,Platinum,5.0,3.6
+CUST-1980,48.0,Male,Seattle,Medium,2024-09-02,Home & Living,Bronze,2.0,7.7
+CUST-1240,31.0,Female,Chicago,High,2023-05-13,Electronics,Silver,3.0,3.7
+CUST-1106,32.0,Other,Denver,Medium,2024-07-05,Fashion,Bronze,5.0,3.3
+CUST-1897,43.0,Male,Chicago,Medium,2024-07-07,Home & Living,Gold,4.0,19.6
+CUST-1344,27.0,Female,Los Angeles,High,2023-02-13,Sports & Outdoors,Bronze,4.0,7.9
+CUST-2101,36.0,Female,Los Angeles,Low,2022-03-05,Sports & Outdoors,Platinum,3.0,10.0
+CUST-1276,33.0,Other,Austin,Medium,2024-04-04,Beauty & Health,Gold,2.0,6.1
+CUST-1060,18.0,Male,Chicago,Medium,2023-08-12,Sports & Outdoors,Gold,4.0,8.0
+CUST-1884,38.0,Male,Houston,Low,2023-11-21,Fashion,Bronze,4.0,10.5
+CUST-1372,43.0,Female,Austin,Low,2022-10-29,Sports & Outdoors,Silver,4.0,5.9
+CUST-1137,70.0,Other,Austin,Medium,2023-08-06,Fashion,Bronze,1.0,1.7
+CUST-1624,32.0,Male,Seattle,Medium,2024-04-23,Electronics,Silver,4.0,10.4
+CUST-1050,26.0,Female,Austin,High,2024-06-16,Fashion,Silver,4.0,5.4
+CUST-1041,32.0,Other,New York,Medium,2023-05-07,Home & Living,Silver,5.0,12.4
+CUST-1478,42.0,Male,Austin,Low,2022-08-26,Beauty & Health,Bronze,5.0,6.2
+CUST-1909,25.0,Female,Seattle,High,2022-08-04,Home & Living,Silver,4.0,5.9
+CUST-2030,22.0,Female,Denver,Low,2023-01-22,Sports & Outdoors,Bronze,5.0,12.2
+CUST-2135,57.0,Female,New York,Medium,2024-11-15,Electronics,Bronze,3.0,15.8
+CUST-1733,44.0,Male,Houston,,2024-01-11,Electronics,Bronze,2.0,2.9
+CUST-1317,29.0,Female,Phoenix,High,2024-05-31,Sports & Outdoors,Gold,4.0,20.1
+CUST-1937,21.0,Female,Phoenix,Medium,2024-08-27,Sports & Outdoors,Silver,4.0,11.6
+CUST-1576,19.0,Other,Austin,Medium,2022-02-15,Home & Living,Bronze,2.0,5.1
+CUST-1974,41.0,Female,New York,High,2023-04-15,Electronics,Bronze,3.0,5.4
+CUST-1076,26.0,Female,Chicago,Medium,2022-01-26,Home & Living,Bronze,4.0,7.1
+CUST-1600,45.0,Male,Houston,High,2024-11-04,Sports & Outdoors,Bronze,3.0,1.2
+CUST-1864,44.0,Female,Phoenix,Low,2022-12-05,Fashion,Silver,3.0,7.0
